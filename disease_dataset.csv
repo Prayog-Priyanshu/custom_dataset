@@ -1,0 +1,1120 @@
+Disease,Symptoms,Medicine,Brand Name,Dosage,Price (INR)
+Diabetes,"Frequent urination, excessive thirst, fatigue",Metformin,Glycomet,500mg,50
+Diabetes,"Frequent urination, excessive thirst, fatigue",Insulin,Humulin,100IU/ml,300
+Hypertension,"Headache, dizziness, blurred vision",Amlodipine,Amlovas,5mg,30
+Hypertension,"Headache, dizziness, blurred vision",Lisinopril,Zestril,10mg,40
+Asthma,"Shortness of breath, wheezing, chest tightness",Salbutamol,Asthalin,2mg,20
+Asthma,"Shortness of breath, wheezing, chest tightness",Montelukast,Montair,10mg,100
+Malaria,"Fever, chills, sweating, nausea",Artemether-Lumefantrine,Coartem,20mg/120mg,200
+Malaria,"Fever, chills, sweating, nausea",Chloroquine,Resochin,250mg,150
+Tuberculosis,"Cough, weight loss, night sweats, fever",Rifampin,Rifadin,450mg,250
+Tuberculosis,"Cough, weight loss, night sweats, fever",Isoniazid,Isonex,300mg,100
+Dengue,"High fever, severe headache, joint pain",Paracetamol,Crocin,500mg,15
+Dengue,"High fever, severe headache, joint pain",IV fluids,Normal Saline,500ml,50
+Typhoid,"Prolonged fever, abdominal pain, loss of appetite",Ceftriaxone,Cefaxone,1g,200
+Typhoid,"Prolonged fever, abdominal pain, loss of appetite",Azithromycin,Azee,500mg,100
+COVID-19,"Fever, cough, loss of taste and smell",Paracetamol,Crocin,500mg,15
+COVID-19,"Fever, cough, loss of taste and smell",Remdesivir,Covifor,100mg,5000
+Influenza,"Fever, chills, muscle aches, sore throat",Oseltamivir,Tamiflu,75mg,300
+Influenza,"Fever, chills, muscle aches, sore throat",Zanamivir,Relenza,5mg,400
+Migraine,"Severe headache, nausea, sensitivity to light",Sumatriptan,Suminat,50mg,200
+Migraine,"Severe headache, nausea, sensitivity to light",Ibuprofen,Brufen,400mg,30
+Arthritis,"Joint pain, stiffness, swelling",Ibuprofen,Brufen,400mg,30
+Arthritis,"Joint pain, stiffness, swelling",Naproxen,Naprosyn,500mg,50
+Pneumonia,"Cough, chest pain, difficulty breathing",Amoxicillin,Amoxil,500mg,100
+Pneumonia,"Cough, chest pain, difficulty breathing",Azithromycin,Azee,500mg,100
+Common Cold,"Runny nose, sore throat, sneezing",Paracetamol,Crocin,500mg,15
+Common Cold,"Runny nose, sore throat, sneezing",Antihistamines,Cetirizine,10mg,20
+Anemia,"Fatigue, pale skin, dizziness",Iron supplements,Feronia,100mg,50
+Anemia,"Fatigue, pale skin, dizziness",Vitamin B12,Cobal,1000mcg,100
+Heart Disease,"Chest pain, shortness of breath, fatigue",Aspirin,Ecosprin,75mg,10
+Heart Disease,"Chest pain, shortness of breath, fatigue",Atorvastatin,Atorva,10mg,50
+Kidney Disease,"Swelling, fatigue, high blood pressure",ACE inhibitors,Enalapril,5mg,30
+Kidney Disease,"Swelling, fatigue, high blood pressure",Diuretics,Lasix,40mg,20
+Hepatitis B,"Jaundice, nausea, dark urine",Tenofovir,Viread,300mg,500
+Hepatitis B,"Jaundice, nausea, dark urine",Entecavir,Baraclude,0.5mg,600
+Gastritis,"Stomach pain, bloating, nausea",Omeprazole,Omez,20mg,30
+Gastritis,"Stomach pain, bloating, nausea",Ranitidine,Zinetac,150mg,20
+Peptic Ulcer,"Burning stomach pain, bloating, nausea",Pantoprazole,Pantocid,40mg,50
+Peptic Ulcer,"Burning stomach pain, bloating, nausea",Clarithromycin,Claribid,500mg,100
+Epilepsy,"Seizures, confusion, temporary unconsciousness",Carbamazepine,Tegretol,200mg,150
+Epilepsy,"Seizures, confusion, temporary unconsciousness",Valproic Acid,Encorate,500mg,200
+Alzheimer's,"Memory loss, confusion, difficulty in thinking",Donepezil,Aricept,5mg,300
+Alzheimer's,"Memory loss, confusion, difficulty in thinking",Memantine,Mentadem,10mg,400
+Parkinson's,"Tremors, slow movement, balance issues",Levodopa,Sinemet,100mg,500
+Parkinson's,"Tremors, slow movement, balance issues",Carbidopa,Sinemet,25mg,500
+Obesity,"Excess body weight, fatigue, high cholesterol",Orlistat,Orlistat,120mg,300
+Obesity,"Excess body weight, fatigue, high cholesterol",Metformin,Glycomet,500mg,50
+Hyperthyroidism,"Weight loss, rapid heartbeat, sweating",Methimazole,Thyrozol,5mg,50
+Hyperthyroidism,"Weight loss, rapid heartbeat, sweating",Propylthiouracil,Propylthiouracil,50mg,100
+Hypothyroidism,"Fatigue, weight gain, dry skin",Levothyroxine,Thyronorm,50mcg,50
+Psoriasis,"Itchy, red, scaly skin patches",Topical corticosteroids,Betnovate,0.1%,100
+Psoriasis,"Itchy, red, scaly skin patches",Methotrexate,Methotrexate,2.5mg,200
+Eczema,"Itchy, dry, cracked skin",Moisturizers,Vaseline,100ml,150
+Eczema,"Itchy, dry, cracked skin",Hydrocortisone,Cortisol,1%,50
+Depression,"Persistent sadness, lack of energy, sleep issues",Sertraline,Zoloft,50mg,100
+Depression,"Persistent sadness, lack of energy, sleep issues",Fluoxetine,Prozac,20mg,150
+Anxiety,"Excessive worry, restlessness, rapid heartbeat",Alprazolam,Alprax,0.5mg,50
+Anxiety,"Excessive worry, restlessness, rapid heartbeat",Diazepam,Calmpose,5mg,30
+Schizophrenia,"Hallucinations, delusions, disorganized speech",Risperidone,Risperdal,2mg,100
+Schizophrenia,"Hallucinations, delusions, disorganized speech",Olanzapine,Olanex,5mg,150
+HIV/AIDS,"Fatigue, weight loss, frequent infections",Tenofovir,Viread,300mg,500
+HIV/AIDS,"Fatigue, weight loss, frequent infections",Efavirenz,Efavirenz,600mg,500
+Gonorrhea,"Painful urination, discharge, swelling",Ceftriaxone,Cefaxone,1g,200
+Gonorrhea,"Painful urination, discharge, swelling",Azithromycin,Azee,500mg,100
+Syphilis,"Sores, rash, fever",Penicillin G,Penicillin G,1MU,100
+Chlamydia,"Painful urination, discharge, lower abdominal pain",Azithromycin,Azee,500mg,100
+Chlamydia,"Painful urination, discharge, lower abdominal pain",Doxycycline,Doxy-1,100mg,50
+Bronchitis,"Cough with mucus, fatigue, chest discomfort",Amoxicillin,Amoxil,500mg,100
+Bronchitis,"Cough with mucus, fatigue, chest discomfort",Bronchodilators,Ventolin,100mcg,200
+Sinusitis,"Facial pain, nasal congestion, headache",Nasal decongestants,Otrivin,0.1%,50
+Sinusitis,"Facial pain, nasal congestion, headache",Antibiotics,Augmentin,625mg,200
+Otitis Media,"Ear pain, hearing loss, fluid drainage",Amoxicillin,Amoxil,500mg,100
+Otitis Media,"Ear pain, hearing loss, fluid drainage",Ibuprofen,Brufen,400mg,30
+Conjunctivitis,"Red eyes, itching, discharge",Antibiotic eye drops,Tobramycin,0.3%,100
+Conjunctivitis,"Red eyes, itching, discharge",Antihistamines,Cetirizine,10mg,20
+Glaucoma,"Blurred vision, eye pain, nausea",Timolol,Timolol,0.5%,100
+Glaucoma,"Blurred vision, eye pain, nausea",Latanoprost,Latanoprost,0.005%,200
+Cataracts,"Cloudy vision, difficulty in night vision",Surgery,Cataract Surgery,,30000
+Lyme Disease,"Fever, headache, fatigue, skin rash",Doxycycline,Doxy-1,100mg,50
+Lyme Disease,"Fever, headache, fatigue, skin rash",Amoxicillin,Amoxil,500mg,
+Hepatitis C,"Fatigue, jaundice, abdominal pain",Sofosbuvir,Sovaldi,400mg,1000
+Hepatitis C,"Fatigue, jaundice, abdominal pain",Ribavirin,Ribavirin,200mg,
+Osteoporosis,"Bone pain, fractures, loss of height",Alendronate,Fosamax,70mg,200
+Osteoporosis,"Bone pain, fractures, loss of height",Calcium supplements,Caltrate,500mg,
+Fibromyalgia,"Widespread pain, fatigue, sleep disturbances",Pregabalin,Lyrica,75mg,300
+Fibromyalgia,"Widespread pain, fatigue, sleep disturbances",Duloxetine,Cymbalta,30mg,
+Multiple Sclerosis,"Numbness, weakness, vision problems",Interferon beta,Avonex,30mcg,5000
+Multiple Sclerosis,"Numbness, weakness, vision problems",Glatiramer acetate,Copaxone,20mg,
+Gout,"Intense joint pain, swelling, redness",Allopurinol,Zyloprim,100mg,100
+Gout,"Intense joint pain, swelling, redness",Colchicine,Colcrys,0.6mg,
+Chronic Fatigue Syndrome,"Extreme fatigue, muscle pain, memory issues",Antidepressants,Amitriptyline,25mg,50
+Chronic Fatigue Syndrome,"Extreme fatigue, muscle pain, memory issues",Sleep aids,Zolpidem,5mg,
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea or constipation",Antispasmodics,Dicyclomine,10mg,30
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea or constipation",Laxatives,Miralax,17g,
+Lupus,"Joint pain, rash, fatigue",Hydroxychloroquine,Plaquenil,200mg,100
+Lupus,"Joint pain, rash, fatigue",Prednisone,Deltasone,5mg,
+Rheumatoid Arthritis,"Joint pain, swelling, stiffness",Methotrexate,Trexall,2.5mg,100
+Rheumatoid Arthritis,"Joint pain, swelling, stiffness",Hydroxychloroquine,Plaquenil,200mg,
+Shingles,"Painful rash, blisters, itching",Acyclovir,Zovirax,800mg,200
+Shingles,"Painful rash, blisters, itching",Pain relievers,Ibuprofen,400mg,
+Tetanus,"Muscle stiffness, spasms, lockjaw",Tetanus toxoid,TT Vaccine,0.5ml,50
+Tetanus,"Muscle stiffness, spasms, lockjaw",Antibiotics,Penicillin,1MU,
+Whooping Cough,"Severe cough, runny nose, fever",Antibiotics,Azithromycin,500mg,100
+Whooping Cough,"Severe cough, runny nose, fever",Cough suppressants,Dextromethorphan,15mg,
+Yellow Fever,"Fever, chills, headache, jaundice",Supportive care,YF-Vax,0.5ml,500
+Yellow Fever,"Fever, chills, headache, jaundice",Vaccination,,,
+Leukemia,"Fatigue, weight loss, frequent infections",Chemotherapy,Imatinib,400mg,5000
+Leukemia,"Fatigue, weight loss, frequent infections",Targeted therapy,Rituximab,500mg,
+Melanoma,"Unusual moles, skin changes, itching",Surgery,Keytruda,100mg,10000
+Melanoma,"Unusual moles, skin changes, itching",Immunotherapy,Opdivo,40mg,
+Prostate Cancer,"Urinary issues, pelvic pain, bone pain",Hormone therapy,Leuprolide,22.5mg,5000
+Prostate Cancer,"Urinary issues, pelvic pain, bone pain",Chemotherapy,Docetaxel,75mg/m²,
+Breast Cancer,"Lump in breast, nipple discharge, skin changes",Surgery,Tamoxifen,20mg,2000
+Breast Cancer,"Lump in breast, nipple discharge, skin changes",Chemotherapy,Herceptin,440mg,
+Ovarian Cancer,"Abdominal bloating, pelvic pain, weight loss",Surgery,Carboplatin,450mg,3000
+Ovarian Cancer,"Abdominal bloating, pelvic pain, weight loss",Chemotherapy,Paclitaxel,175mg/m²,
+Pancreatic Cancer,"Abdominal pain, jaundice, weight loss",Surgery,Gemcitabine,1000mg/m²,4000
+Pancreatic Cancer,"Abdominal pain, jaundice, weight loss",Chemotherapy,Erlotinib,100mg,
+Colorectal Cancer,"Blood in stool, abdominal pain, weight loss",Surgery,Capecitabine,1500mg/m²,3000
+Colorectal Cancer,"Blood in stool, abdominal pain, weight loss",Chemotherapy,Oxaliplatin,130mg/m²,
+Constipation,"Weight loss, Fatigue, Chills, Joint pain",Azithromycin,Claritine,1g,100
+Constipation,"Weight loss, Fatigue, Chills, Joint pain",Paracetamol,Brufen,500mg,20
+Flu,"Rash, Chest tightness, Headache, Shortness of breath",Amoxicillin,Flagyl,10mg,150
+Flu,"Rash, Chest tightness, Headache, Shortness of breath",Omeprazole,Claritine,1g,100
+Indigestion,"Sore throat, Fatigue, Itching, Chest tightness",Loratadine,Claritine,1g,30
+Indigestion,"Sore throat, Fatigue, Itching, Chest tightness",Paracetamol,Crocin,200mg,100
+Dengue,"Rash, Chills, Pain, Fever",Azithromycin,Brufen,200mg,20
+Dengue,"Rash, Chills, Pain, Fever",Amoxicillin,Claritine,5mg,150
+Cholera,"Chills, Itching, Pain, Headache",Metronidazole,Zinetac,1g,200
+Cholera,"Chills, Itching, Pain, Headache",Ciprofloxacin,Crocin,5mg,150
+Anxiety,"Vomiting, Sore throat, Fever, Headache",Azithromycin,Alerid,100mg,150
+Anxiety,"Vomiting, Sore throat, Fever, Headache",Omeprazole,Omez,250mg,75
+Acne,"Fever, Cough, Shortness of breath, Sore throat",Metronidazole,Alerid,5mg,75
+Acne,"Fever, Cough, Shortness of breath, Sore throat",Paracetamol,Omez,100mg,30
+Dengue,"Chest tightness, Pain, Joint pain, Fatigue",Omeprazole,Zinetac,200mg,50
+Dengue,"Chest tightness, Pain, Joint pain, Fatigue",Loratadine,Ciplox,100mg,30
+Chickenpox,"Sweating, Cough, Chills, Nausea",Metronidazole,Flagyl,100mg,200
+Chickenpox,"Sweating, Cough, Chills, Nausea",Ranitidine,Omez,1g,20
+Anxiety,"Fever, Chest tightness, Dizziness, Sweating",Cetirizine,Omez,250mg,20
+Anxiety,"Fever, Chest tightness, Dizziness, Sweating",Ranitidine,Zinetac,100mg,200
+Epilepsy,"Rash, Weight loss, Joint pain, Fever",Metronidazole,Crocin,200mg,20
+Epilepsy,"Rash, Weight loss, Joint pain, Fever",Paracetamol,Zinetac,1g,100
+Common Cold,"Dizziness, Nausea, Headache, Vomiting",Ibuprofen,Zinetac,10mg,200
+Common Cold,"Dizziness, Nausea, Headache, Vomiting",Amoxicillin,Ciplox,1g,30
+Cholera,"Sweating, Sore throat, Headache, Nausea",Omeprazole,Ciplox,500mg,150
+Cholera,"Sweating, Sore throat, Headache, Nausea",Ranitidine,Claritine,100mg,30
+Common Cold,"Joint pain, Itching, Fever, Cough",Cetirizine,Ciplox,200mg,200
+Common Cold,"Joint pain, Itching, Fever, Cough",Omeprazole,Omez,250mg,30
+Chickenpox,"Shortness of breath, Fever, Weight loss, Cough",Azithromycin,Claritine,5mg,20
+Chickenpox,"Shortness of breath, Fever, Weight loss, Cough",Ciprofloxacin,Azithral,100mg,75
+Constipation,"Chills, Pain, Shortness of breath, Cough",Paracetamol,Flagyl,200mg,200
+Constipation,"Chills, Pain, Shortness of breath, Cough",Amoxicillin,Ciplox,5mg,75
+Glaucoma,"Fever, Fatigue, Vomiting, Cough",Cetirizine,Brufen,100mg,50
+Glaucoma,"Fever, Fatigue, Vomiting, Cough",Ranitidine,Azithral,10mg,30
+Common Cold,"Rash, Dizziness, Headache, Fatigue",Ciprofloxacin,Crocin,100mg,150
+Common Cold,"Rash, Dizziness, Headache, Fatigue",Paracetamol,Omez,1g,200
+Allergy,"Rash, Fever, Chest tightness, Cough",Ranitidine,Azithral,500mg,100
+Allergy,"Rash, Fever, Chest tightness, Cough",Azithromycin,Claritine,1g,75
+Hepatitis,"Dizziness, Shortness of breath, Headache, Fatigue",Ibuprofen,Azithral,250mg,50
+Hepatitis,"Dizziness, Shortness of breath, Headache, Fatigue",Cetirizine,Flagyl,10mg,200
+Hepatitis,"Shortness of breath, Pain, Chills, Fever",Omeprazole,Alerid,1g,75
+Hepatitis,"Shortness of breath, Pain, Chills, Fever",Amoxicillin,Crocin,500mg,100
+Bronchitis,"Nausea, Dizziness, Chest tightness, Sweating",Metronidazole,Omez,500mg,20
+Bronchitis,"Nausea, Dizziness, Chest tightness, Sweating",Omeprazole,Crocin,250mg,30
+Epilepsy,"Joint pain, Sweating, Vomiting, Headache",Loratadine,Omez,100mg,100
+Epilepsy,"Joint pain, Sweating, Vomiting, Headache",Cetirizine,Azithral,250mg,50
+Ear Infection,"Fever, Nausea, Dizziness, Sore throat",Ranitidine,Claritine,250mg,100
+Ear Infection,"Fever, Nausea, Dizziness, Sore throat",Omeprazole,Brufen,100mg,150
+Chickenpox,"Shortness of breath, Dizziness, Sore throat, Vomiting",Ciprofloxacin,Zinetac,100mg,50
+Chickenpox,"Shortness of breath, Dizziness, Sore throat, Vomiting",Paracetamol,Brufen,200mg,75
+Gastritis,"Nausea, Rash, Dizziness, Shortness of breath",Ibuprofen,Brufen,200mg,75
+Gastritis,"Nausea, Rash, Dizziness, Shortness of breath",Ciprofloxacin,Flagyl,1g,100
+Epilepsy,"Weight loss, Sore throat, Pain, Dizziness",Ranitidine,Alerid,200mg,150
+Epilepsy,"Weight loss, Sore throat, Pain, Dizziness",Loratadine,Crocin,100mg,50
+Glaucoma,"Sore throat, Headache, Weight loss, Dizziness",Azithromycin,Claritine,250mg,100
+Glaucoma,"Sore throat, Headache, Weight loss, Dizziness",Ranitidine,Omez,500mg,75
+Alzheimer's,"Pain, Dizziness, Sweating, Sore throat",Metronidazole,Claritine,250mg,75
+Alzheimer's,"Pain, Dizziness, Sweating, Sore throat",Paracetamol,Brufen,10mg,200
+Acne,"Rash, Weight loss, Nausea, Headache",Metronidazole,Zinetac,250mg,30
+Acne,"Rash, Weight loss, Nausea, Headache",Azithromycin,Claritine,200mg,20
+HIV,"Rash, Cough, Chest tightness, Fever",Amoxicillin,Crocin,200mg,20
+HIV,"Rash, Cough, Chest tightness, Fever",Ciprofloxacin,Omez,500mg,100
+Hepatitis,"Weight loss, Pain, Rash, Sweating",Loratadine,Crocin,100mg,75
+Hepatitis,"Weight loss, Pain, Rash, Sweating",Ciprofloxacin,Flagyl,5mg,50
+Glaucoma,"Dizziness, Nausea, Chest tightness, Joint pain",Amoxicillin,Brufen,200mg,150
+Glaucoma,"Dizziness, Nausea, Chest tightness, Joint pain",Ranitidine,Omez,1g,100
+Indigestion,"Chills, Fatigue, Rash, Shortness of breath",Ciprofloxacin,Augmentin,500mg,75
+Indigestion,"Chills, Fatigue, Rash, Shortness of breath",Metronidazole,Zinetac,10mg,50
+Chickenpox,"Joint pain, Weight loss, Fever, Shortness of breath",Metronidazole,Azithral,200mg,100
+Chickenpox,"Joint pain, Weight loss, Fever, Shortness of breath",Omeprazole,Zinetac,10mg,200
+Cholera,"Shortness of breath, Headache, Rash, Chest tightness",Omeprazole,Alerid,1g,150
+Cholera,"Shortness of breath, Headache, Rash, Chest tightness",Azithromycin,Flagyl,200mg,100
+Back Pain,"Joint pain, Chills, Sweating, Itching",Loratadine,Flagyl,500mg,20
+Back Pain,"Joint pain, Chills, Sweating, Itching",Cetirizine,Augmentin,10mg,200
+Dengue,"Dizziness, Weight loss, Pain, Rash",Ibuprofen,Azithral,500mg,150
+Dengue,"Dizziness, Weight loss, Pain, Rash",Ciprofloxacin,Flagyl,10mg,100
+Common Cold,"Fatigue, Pain, Nausea, Cough",Ranitidine,Brufen,10mg,150
+Common Cold,"Fatigue, Pain, Nausea, Cough",Paracetamol,Azithral,200mg,30
+Cholera,"Rash, Cough, Sweating, Headache",Ciprofloxacin,Omez,200mg,150
+Cholera,"Rash, Cough, Sweating, Headache",Loratadine,Flagyl,5mg,75
+Hepatitis,"Fatigue, Cough, Shortness of breath, Chest tightness",Cetirizine,Azithral,1g,200
+Hepatitis,"Fatigue, Cough, Shortness of breath, Chest tightness",Ciprofloxacin,Ciplox,5mg,30
+Epilepsy,"Headache, Cough, Vomiting, Itching",Omeprazole,Augmentin,500mg,200
+Epilepsy,"Headache, Cough, Vomiting, Itching",Loratadine,Claritine,5mg,75
+Dengue,"Itching, Sweating, Cough, Nausea",Omeprazole,Zinetac,100mg,30
+Dengue,"Itching, Sweating, Cough, Nausea",Cetirizine,Ciplox,5mg,150
+Alzheimer's,"Itching, Vomiting, Rash, Shortness of breath",Omeprazole,Alerid,500mg,50
+Alzheimer's,"Itching, Vomiting, Rash, Shortness of breath",Ranitidine,Crocin,10mg,200
+Gastritis,"Sore throat, Shortness of breath, Pain, Cough",Cetirizine,Ciplox,100mg,30
+Gastritis,"Sore throat, Shortness of breath, Pain, Cough",Omeprazole,Omez,200mg,100
+Dengue,"Dizziness, Weight loss, Fatigue, Headache",Cetirizine,Flagyl,5mg,75
+Dengue,"Dizziness, Weight loss, Fatigue, Headache",Paracetamol,Augmentin,100mg,20
+Allergy,"Rash, Weight loss, Dizziness, Fever",Ranitidine,Zinetac,5mg,200
+Allergy,"Rash, Weight loss, Dizziness, Fever",Metronidazole,Azithral,100mg,50
+Common Cold,"Cough, Pain, Vomiting, Itching",Ranitidine,Ciplox,1g,30
+Common Cold,"Cough, Pain, Vomiting, Itching",Ibuprofen,Flagyl,250mg,20
+Chickenpox,"Shortness of breath, Pain, Chills, Weight loss",Ibuprofen,Azithral,250mg,30
+Chickenpox,"Shortness of breath, Pain, Chills, Weight loss",Amoxicillin,Claritine,1g,100
+Gastritis,"Cough, Sore throat, Pain, Nausea",Amoxicillin,Azithral,250mg,50
+Gastritis,"Cough, Sore throat, Pain, Nausea",Azithromycin,Claritine,5mg,30
+Acne,"Sweating, Fatigue, Dizziness, Itching",Paracetamol,Omez,10mg,150
+Acne,"Sweating, Fatigue, Dizziness, Itching",Omeprazole,Flagyl,200mg,75
+Anxiety,"Shortness of breath, Fever, Dizziness, Joint pain",Omeprazole,Ciplox,200mg,20
+Anxiety,"Shortness of breath, Fever, Dizziness, Joint pain",Loratadine,Brufen,1g,100
+Epilepsy,"Weight loss, Rash, Chest tightness, Sweating",Ibuprofen,Crocin,100mg,200
+Epilepsy,"Weight loss, Rash, Chest tightness, Sweating",Metronidazole,Zinetac,200mg,100
+Eye Infection,"Weight loss, Pain, Vomiting, Sweating",Loratadine,Brufen,10mg,75
+Eye Infection,"Weight loss, Pain, Vomiting, Sweating",Azithromycin,Zinetac,200mg,150
+Chickenpox,"Joint pain, Vomiting, Fever, Itching",Loratadine,Crocin,500mg,20
+Chickenpox,"Joint pain, Vomiting, Fever, Itching",Ranitidine,Omez,250mg,50
+COVID-19,"Joint pain, Weight loss, Sore throat, Dizziness",Ranitidine,Augmentin,500mg,150
+COVID-19,"Joint pain, Weight loss, Sore throat, Dizziness",Omeprazole,Alerid,200mg,30
+Insomnia,"Vomiting, Shortness of breath, Chills, Rash",Omeprazole,Ciplox,500mg,150
+Insomnia,"Vomiting, Shortness of breath, Chills, Rash",Metronidazole,Flagyl,1g,50
+Anxiety,"Headache, Sweating, Sore throat, Vomiting",Cetirizine,Omez,10mg,200
+Anxiety,"Headache, Sweating, Sore throat, Vomiting",Ranitidine,Brufen,500mg,20
+Hepatitis,"Chills, Dizziness, Headache, Joint pain",Paracetamol,Zinetac,10mg,20
+Hepatitis,"Chills, Dizziness, Headache, Joint pain",Ibuprofen,Brufen,250mg,75
+COVID-19,"Itching, Nausea, Fatigue, Sweating",Cetirizine,Ciplox,100mg,75
+COVID-19,"Itching, Nausea, Fatigue, Sweating",Paracetamol,Claritine,10mg,200
+Gastritis,"Itching, Headache, Vomiting, Nausea",Loratadine,Augmentin,200mg,50
+Gastritis,"Itching, Headache, Vomiting, Nausea",Omeprazole,Brufen,100mg,150
+Chickenpox,"Nausea, Fever, Sore throat, Chills",Ciprofloxacin,Zinetac,5mg,75
+Chickenpox,"Nausea, Fever, Sore throat, Chills",Omeprazole,Flagyl,500mg,30
+Gout,"Nausea, Headache, Shortness of breath, Chills",Amoxicillin,Zinetac,250mg,75
+Gout,"Nausea, Headache, Shortness of breath, Chills",Paracetamol,Crocin,500mg,20
+Glaucoma,"Itching, Joint pain, Shortness of breath, Fever",Azithromycin,Omez,200mg,50
+Glaucoma,"Itching, Joint pain, Shortness of breath, Fever",Ranitidine,Claritine,1g,30
+Cholera,"Sweating, Pain, Dizziness, Shortness of breath",Ciprofloxacin,Flagyl,1g,150
+Cholera,"Sweating, Pain, Dizziness, Shortness of breath",Paracetamol,Ciplox,250mg,100
+Flu,"Nausea, Pain, Itching, Weight loss",Amoxicillin,Claritine,5mg,100
+Flu,"Nausea, Pain, Itching, Weight loss",Ciprofloxacin,Crocin,10mg,20
+Cholera,"Sweating, Nausea, Dizziness, Headache",Ibuprofen,Flagyl,5mg,50
+Cholera,"Sweating, Nausea, Dizziness, Headache",Cetirizine,Augmentin,100mg,150
+Constipation,"Sore throat, Headache, Cough, Chills",Paracetamol,Alerid,250mg,30
+Constipation,"Sore throat, Headache, Cough, Chills",Ranitidine,Brufen,200mg,150
+Insomnia,"Cough, Dizziness, Weight loss, Pain",Ranitidine,Alerid,250mg,75
+Insomnia,"Cough, Dizziness, Weight loss, Pain",Loratadine,Brufen,100mg,20
+Acne,"Vomiting, Weight loss, Sweating, Pain",Amoxicillin,Zinetac,5mg,200
+Acne,"Vomiting, Weight loss, Sweating, Pain",Metronidazole,Azithral,500mg,150
+Gout,"Chills, Shortness of breath, Cough, Chest tightness",Azithromycin,Ciplox,10mg,50
+Gout,"Chills, Shortness of breath, Cough, Chest tightness",Cetirizine,Zinetac,1g,75
+Gout,"Shortness of breath, Fatigue, Nausea, Chest tightness",Cetirizine,Flagyl,100mg,75
+Gout,"Shortness of breath, Fatigue, Nausea, Chest tightness",Azithromycin,Crocin,5mg,150
+Gastritis,"Nausea, Chills, Pain, Headache",Amoxicillin,Zinetac,5mg,75
+Gastritis,"Nausea, Chills, Pain, Headache",Ibuprofen,Claritine,200mg,20
+Gout,"Pain, Sweating, Chest tightness, Rash",Ciprofloxacin,Alerid,500mg,50
+Gout,"Pain, Sweating, Chest tightness, Rash",Ranitidine,Zinetac,1g,200
+Common Cold,"Itching, Vomiting, Rash, Sweating",Paracetamol,Zinetac,10mg,50
+Common Cold,"Itching, Vomiting, Rash, Sweating",Omeprazole,Claritine,100mg,20
+Cholera,"Weight loss, Sweating, Shortness of breath, Cough",Ranitidine,Brufen,1g,30
+Cholera,"Weight loss, Sweating, Shortness of breath, Cough",Azithromycin,Azithral,5mg,75
+Ear Infection,"Chills, Itching, Weight loss, Joint pain",Loratadine,Flagyl,100mg,20
+Ear Infection,"Chills, Itching, Weight loss, Joint pain",Cetirizine,Ciplox,1g,50
+Chickenpox,"Itching, Sore throat, Chills, Fatigue",Ibuprofen,Ciplox,500mg,50
+Chickenpox,"Itching, Sore throat, Chills, Fatigue",Azithromycin,Alerid,10mg,100
+Diarrhea,"Headache, Weight loss, Cough, Nausea",Loratadine,Zinetac,500mg,200
+Diarrhea,"Headache, Weight loss, Cough, Nausea",Paracetamol,Azithral,5mg,20
+Anxiety,"Shortness of breath, Dizziness, Rash, Pain",Metronidazole,Ciplox,100mg,50
+Anxiety,"Shortness of breath, Dizziness, Rash, Pain",Paracetamol,Crocin,5mg,150
+Common Cold,"Cough, Pain, Chills, Fever",Omeprazole,Flagyl,500mg,20
+Common Cold,"Cough, Pain, Chills, Fever",Paracetamol,Claritine,5mg,30
+Anxiety,"Sore throat, Chills, Cough, Vomiting",Omeprazole,Azithral,500mg,30
+Anxiety,"Sore throat, Chills, Cough, Vomiting",Amoxicillin,Omez,5mg,150
+Insomnia,"Chills, Fatigue, Itching, Shortness of breath",Paracetamol,Azithral,100mg,50
+Insomnia,"Chills, Fatigue, Itching, Shortness of breath",Ciprofloxacin,Alerid,10mg,30
+Ear Infection,"Fever, Itching, Nausea, Sweating",Ranitidine,Claritine,1g,30
+Ear Infection,"Fever, Itching, Nausea, Sweating",Loratadine,Crocin,500mg,150
+Alzheimer's,"Nausea, Sweating, Shortness of breath, Dizziness",Paracetamol,Alerid,250mg,20
+Alzheimer's,"Nausea, Sweating, Shortness of breath, Dizziness",Ranitidine,Augmentin,100mg,100
+Anxiety,"Chest tightness, Joint pain, Headache, Chills",Omeprazole,Claritine,1g,200
+Anxiety,"Chest tightness, Joint pain, Headache, Chills",Cetirizine,Flagyl,250mg,20
+Hepatitis,"Headache, Sore throat, Fatigue, Cough",Azithromycin,Zinetac,500mg,200
+Hepatitis,"Headache, Sore throat, Fatigue, Cough",Paracetamol,Crocin,250mg,20
+Diarrhea,"Sore throat, Fever, Cough, Headache",Loratadine,Ciplox,100mg,30
+Diarrhea,"Sore throat, Fever, Cough, Headache",Metronidazole,Zinetac,500mg,50
+Flu,"Dizziness, Weight loss, Cough, Nausea",Ibuprofen,Ciplox,10mg,100
+Flu,"Dizziness, Weight loss, Cough, Nausea",Azithromycin,Azithral,250mg,20
+Alzheimer's,"Weight loss, Cough, Headache, Itching",Omeprazole,Alerid,500mg,150
+Alzheimer's,"Weight loss, Cough, Headache, Itching",Metronidazole,Augmentin,5mg,200
+Diarrhea,"Fever, Sore throat, Joint pain, Chills",Paracetamol,Ciplox,500mg,30
+Diarrhea,"Fever, Sore throat, Joint pain, Chills",Ranitidine,Omez,200mg,50
+Acne,"Fatigue, Vomiting, Joint pain, Pain",Ibuprofen,Azithral,100mg,75
+Acne,"Fatigue, Vomiting, Joint pain, Pain",Amoxicillin,Ciplox,250mg,100
+Acne,"Pain, Sore throat, Sweating, Dizziness",Azithromycin,Alerid,100mg,200
+Acne,"Pain, Sore throat, Sweating, Dizziness",Loratadine,Ciplox,500mg,20
+Hepatitis,"Dizziness, Cough, Chest tightness, Vomiting",Paracetamol,Ciplox,250mg,20
+Hepatitis,"Dizziness, Cough, Chest tightness, Vomiting",Ibuprofen,Alerid,200mg,75
+Insomnia,"Cough, Shortness of breath, Dizziness, Chest tightness",Azithromycin,Brufen,100mg,30
+Insomnia,"Cough, Shortness of breath, Dizziness, Chest tightness",Loratadine,Omez,5mg,50
+Epilepsy,"Pain, Shortness of breath, Cough, Nausea",Cetirizine,Claritine,1g,20
+Epilepsy,"Pain, Shortness of breath, Cough, Nausea",Loratadine,Crocin,250mg,150
+COVID-19,"Chest tightness, Chills, Sweating, Shortness of breath",Ibuprofen,Crocin,5mg,100
+COVID-19,"Chest tightness, Chills, Sweating, Shortness of breath",Omeprazole,Claritine,250mg,50
+Insomnia,"Fever, Rash, Joint pain, Sore throat",Amoxicillin,Azithral,10mg,20
+Insomnia,"Fever, Rash, Joint pain, Sore throat",Cetirizine,Augmentin,250mg,150
+Ear Infection,"Joint pain, Dizziness, Shortness of breath, Fever",Cetirizine,Ciplox,250mg,150
+Ear Infection,"Joint pain, Dizziness, Shortness of breath, Fever",Loratadine,Alerid,500mg,20
+Cholera,"Pain, Fever, Chills, Vomiting",Metronidazole,Azithral,5mg,20
+Cholera,"Pain, Fever, Chills, Vomiting",Omeprazole,Claritine,10mg,100
+HIV,"Sore throat, Cough, Chills, Itching",Omeprazole,Azithral,10mg,200
+HIV,"Sore throat, Cough, Chills, Itching",Cetirizine,Claritine,5mg,75
+Eye Infection,"Sore throat, Itching, Joint pain, Cough",Ibuprofen,Flagyl,200mg,75
+Eye Infection,"Sore throat, Itching, Joint pain, Cough",Cetirizine,Augmentin,100mg,20
+Alzheimer's,"Pain, Fatigue, Chills, Itching",Omeprazole,Ciplox,100mg,150
+Alzheimer's,"Pain, Fatigue, Chills, Itching",Metronidazole,Crocin,5mg,20
+Insomnia,"Chest tightness, Shortness of breath, Joint pain, Fatigue",Loratadine,Omez,100mg,150
+Insomnia,"Chest tightness, Shortness of breath, Joint pain, Fatigue",Ranitidine,Augmentin,10mg,20
+Indigestion,"Weight loss, Nausea, Sweating, Pain",Metronidazole,Crocin,5mg,150
+Indigestion,"Weight loss, Nausea, Sweating, Pain",Ibuprofen,Brufen,500mg,75
+Chickenpox,"Dizziness, Chest tightness, Itching, Shortness of breath",Metronidazole,Ciplox,1g,100
+Chickenpox,"Dizziness, Chest tightness, Itching, Shortness of breath",Cetirizine,Omez,500mg,75
+Diarrhea,"Headache, Sore throat, Joint pain, Rash",Metronidazole,Alerid,500mg,75
+Diarrhea,"Headache, Sore throat, Joint pain, Rash",Azithromycin,Flagyl,200mg,30
+Chickenpox,"Rash, Sweating, Chest tightness, Fever",Paracetamol,Zinetac,250mg,50
+Chickenpox,"Rash, Sweating, Chest tightness, Fever",Ranitidine,Augmentin,100mg,75
+Chickenpox,"Sore throat, Nausea, Fever, Joint pain",Amoxicillin,Brufen,500mg,20
+Chickenpox,"Sore throat, Nausea, Fever, Joint pain",Ibuprofen,Augmentin,1g,30
+Alzheimer's,"Sweating, Vomiting, Chest tightness, Dizziness",Paracetamol,Azithral,250mg,75
+Alzheimer's,"Sweating, Vomiting, Chest tightness, Dizziness",Azithromycin,Zinetac,1g,150
+Gout,"Sore throat, Chills, Weight loss, Nausea",Cetirizine,Claritine,1g,100
+Gout,"Sore throat, Chills, Weight loss, Nausea",Metronidazole,Zinetac,250mg,50
+Bronchitis,"Dizziness, Itching, Weight loss, Chills",Metronidazole,Brufen,5mg,50
+Bronchitis,"Dizziness, Itching, Weight loss, Chills",Azithromycin,Azithral,10mg,150
+Gout,"Headache, Pain, Dizziness, Sweating",Ibuprofen,Zinetac,250mg,50
+Gout,"Headache, Pain, Dizziness, Sweating",Azithromycin,Azithral,200mg,75
+Anxiety,"Vomiting, Chest tightness, Weight loss, Headache",Loratadine,Crocin,5mg,200
+Anxiety,"Vomiting, Chest tightness, Weight loss, Headache",Ibuprofen,Augmentin,250mg,20
+Acne,"Joint pain, Rash, Weight loss, Chest tightness",Loratadine,Brufen,100mg,150
+Acne,"Joint pain, Rash, Weight loss, Chest tightness",Cetirizine,Omez,500mg,100
+Indigestion,"Joint pain, Sweating, Fatigue, Rash",Paracetamol,Crocin,10mg,30
+Indigestion,"Joint pain, Sweating, Fatigue, Rash",Metronidazole,Omez,1g,150
+Glaucoma,"Vomiting, Weight loss, Itching, Shortness of breath",Omeprazole,Crocin,1g,200
+Glaucoma,"Vomiting, Weight loss, Itching, Shortness of breath",Loratadine,Brufen,500mg,75
+Gastritis,"Rash, Nausea, Itching, Cough",Ranitidine,Azithral,100mg,30
+Gastritis,"Rash, Nausea, Itching, Cough",Omeprazole,Ciplox,1g,150
+COVID-19,"Fatigue, Chills, Sweating, Headache",Ibuprofen,Zinetac,250mg,20
+COVID-19,"Fatigue, Chills, Sweating, Headache",Azithromycin,Ciplox,5mg,75
+Insomnia,"Sweating, Rash, Sore throat, Pain",Azithromycin,Ciplox,10mg,150
+Insomnia,"Sweating, Rash, Sore throat, Pain",Ciprofloxacin,Omez,1g,100
+Gout,"Sore throat, Chills, Joint pain, Fever",Cetirizine,Augmentin,5mg,150
+Gout,"Sore throat, Chills, Joint pain, Fever",Omeprazole,Alerid,1g,50
+Cholera,"Shortness of breath, Joint pain, Vomiting, Chills",Ciprofloxacin,Zinetac,500mg,20
+Cholera,"Shortness of breath, Joint pain, Vomiting, Chills",Azithromycin,Claritine,5mg,75
+Glaucoma,"Joint pain, Shortness of breath, Fatigue, Weight loss",Azithromycin,Brufen,100mg,50
+Glaucoma,"Joint pain, Shortness of breath, Fatigue, Weight loss",Omeprazole,Flagyl,200mg,150
+Chickenpox,"Pain, Fever, Dizziness, Chills",Ibuprofen,Brufen,5mg,50
+Chickenpox,"Pain, Fever, Dizziness, Chills",Metronidazole,Crocin,250mg,30
+Alzheimer's,"Weight loss, Shortness of breath, Fatigue, Vomiting",Ranitidine,Brufen,10mg,150
+Alzheimer's,"Weight loss, Shortness of breath, Fatigue, Vomiting",Ibuprofen,Zinetac,250mg,100
+Allergy,"Cough, Fatigue, Dizziness, Headache",Loratadine,Flagyl,1g,30
+Allergy,"Cough, Fatigue, Dizziness, Headache",Ciprofloxacin,Brufen,200mg,75
+Gout,"Joint pain, Fever, Nausea, Itching",Paracetamol,Claritine,100mg,75
+Gout,"Joint pain, Fever, Nausea, Itching",Amoxicillin,Crocin,5mg,50
+Common Cold,"Joint pain, Fever, Nausea, Cough",Paracetamol,Azithral,1g,30
+Common Cold,"Joint pain, Fever, Nausea, Cough",Azithromycin,Crocin,200mg,200
+Indigestion,"Chills, Headache, Fatigue, Shortness of breath",Cetirizine,Alerid,200mg,75
+Indigestion,"Chills, Headache, Fatigue, Shortness of breath",Omeprazole,Zinetac,1g,200
+Alzheimer's,"Joint pain, Chills, Headache, Shortness of breath",Omeprazole,Ciplox,250mg,75
+Alzheimer's,"Joint pain, Chills, Headache, Shortness of breath",Amoxicillin,Flagyl,100mg,200
+Anxiety,"Weight loss, Chest tightness, Rash, Vomiting",Loratadine,Crocin,200mg,30
+Anxiety,"Weight loss, Chest tightness, Rash, Vomiting",Ciprofloxacin,Azithral,5mg,75
+Chickenpox,"Dizziness, Sweating, Chest tightness, Fatigue",Amoxicillin,Augmentin,500mg,200
+Chickenpox,"Dizziness, Sweating, Chest tightness, Fatigue",Metronidazole,Ciplox,1g,150
+Alzheimer's,"Fatigue, Pain, Joint pain, Chills",Ranitidine,Omez,250mg,50
+Alzheimer's,"Fatigue, Pain, Joint pain, Chills",Loratadine,Flagyl,100mg,100
+Acne,"Rash, Headache, Fever, Weight loss",Metronidazole,Alerid,5mg,150
+Acne,"Rash, Headache, Fever, Weight loss",Loratadine,Claritine,1g,75
+Indigestion,"Headache, Chills, Sweating, Dizziness",Azithromycin,Alerid,500mg,200
+Indigestion,"Headache, Chills, Sweating, Dizziness",Loratadine,Augmentin,250mg,20
+Common Cold,"Chest tightness, Itching, Fever, Rash",Paracetamol,Ciplox,100mg,75
+Common Cold,"Chest tightness, Itching, Fever, Rash",Ranitidine,Augmentin,5mg,20
+Alzheimer's,"Joint pain, Headache, Rash, Cough",Metronidazole,Ciplox,1g,100
+Alzheimer's,"Joint pain, Headache, Rash, Cough",Amoxicillin,Omez,10mg,50
+HIV,"Cough, Weight loss, Vomiting, Dizziness",Ibuprofen,Augmentin,200mg,20
+HIV,"Cough, Weight loss, Vomiting, Dizziness",Metronidazole,Crocin,250mg,75
+Glaucoma,"Headache, Itching, Rash, Joint pain",Ranitidine,Omez,200mg,100
+Glaucoma,"Headache, Itching, Rash, Joint pain",Omeprazole,Ciplox,5mg,150
+Constipation,"Weight loss, Dizziness, Nausea, Rash",Ciprofloxacin,Augmentin,5mg,100
+Constipation,"Weight loss, Dizziness, Nausea, Rash",Amoxicillin,Flagyl,1g,20
+Acne,"Fever, Vomiting, Joint pain, Chest tightness",Cetirizine,Alerid,200mg,20
+Acne,"Fever, Vomiting, Joint pain, Chest tightness",Amoxicillin,Flagyl,250mg,75
+Gastritis,"Itching, Nausea, Cough, Rash",Ranitidine,Brufen,10mg,150
+Gastritis,"Itching, Nausea, Cough, Rash",Azithromycin,Azithral,100mg,200
+Chickenpox,"Dizziness, Fever, Shortness of breath, Pain",Loratadine,Ciplox,500mg,50
+Chickenpox,"Dizziness, Fever, Shortness of breath, Pain",Paracetamol,Zinetac,10mg,200
+HIV,"Vomiting, Shortness of breath, Headache, Rash",Ranitidine,Omez,200mg,20
+HIV,"Vomiting, Shortness of breath, Headache, Rash",Paracetamol,Augmentin,5mg,75
+Anxiety,"Weight loss, Headache, Fever, Nausea",Cetirizine,Brufen,5mg,200
+Anxiety,"Weight loss, Headache, Fever, Nausea",Amoxicillin,Omez,100mg,75
+Anxiety,"Vomiting, Nausea, Chest tightness, Fever",Paracetamol,Brufen,5mg,150
+Anxiety,"Vomiting, Nausea, Chest tightness, Fever",Metronidazole,Omez,500mg,75
+Common Cold,"Nausea, Joint pain, Itching, Cough",Ibuprofen,Augmentin,500mg,150
+Common Cold,"Nausea, Joint pain, Itching, Cough",Amoxicillin,Brufen,200mg,20
+Cholera,"Sweating, Nausea, Itching, Cough",Paracetamol,Omez,250mg,30
+Cholera,"Sweating, Nausea, Itching, Cough",Ciprofloxacin,Alerid,100mg,100
+Eye Infection,"Itching, Fever, Sweating, Vomiting",Omeprazole,Brufen,5mg,75
+Eye Infection,"Itching, Fever, Sweating, Vomiting",Azithromycin,Omez,500mg,30
+Diarrhea,"Joint pain, Sore throat, Rash, Pain",Paracetamol,Flagyl,1g,200
+Diarrhea,"Joint pain, Sore throat, Rash, Pain",Ranitidine,Brufen,5mg,20
+COVID-19,"Cough, Itching, Fever, Pain",Loratadine,Alerid,200mg,150
+COVID-19,"Cough, Itching, Fever, Pain",Cetirizine,Omez,250mg,30
+Allergy,"Chest tightness, Nausea, Sore throat, Vomiting",Azithromycin,Zinetac,500mg,30
+Allergy,"Chest tightness, Nausea, Sore throat, Vomiting",Ibuprofen,Crocin,5mg,75
+Alzheimer's,"Chills, Cough, Nausea, Joint pain",Ibuprofen,Azithral,250mg,20
+Alzheimer's,"Chills, Cough, Nausea, Joint pain",Ranitidine,Alerid,5mg,150
+Anxiety,"Itching, Weight loss, Fatigue, Chills",Ciprofloxacin,Azithral,200mg,50
+Anxiety,"Itching, Weight loss, Fatigue, Chills",Cetirizine,Alerid,100mg,30
+Epilepsy,"Chest tightness, Joint pain, Sore throat, Vomiting",Cetirizine,Omez,250mg,75
+Epilepsy,"Chest tightness, Joint pain, Sore throat, Vomiting",Amoxicillin,Augmentin,1g,200
+Back Pain,"Sweating, Fever, Nausea, Sore throat",Azithromycin,Ciplox,5mg,50
+Back Pain,"Sweating, Fever, Nausea, Sore throat",Cetirizine,Brufen,500mg,20
+Gastritis,"Chest tightness, Sore throat, Headache, Fever",Metronidazole,Crocin,1g,150
+Gastritis,"Chest tightness, Sore throat, Headache, Fever",Amoxicillin,Claritine,100mg,100
+Diarrhea,"Fatigue, Nausea, Sore throat, Itching",Ranitidine,Brufen,10mg,75
+Diarrhea,"Fatigue, Nausea, Sore throat, Itching",Loratadine,Omez,500mg,200
+Epilepsy,"Itching, Rash, Chills, Chest tightness",Metronidazole,Omez,5mg,200
+Epilepsy,"Itching, Rash, Chills, Chest tightness",Amoxicillin,Augmentin,100mg,150
+Common Cold,"Shortness of breath, Fatigue, Chills, Chest tightness",Amoxicillin,Brufen,200mg,150
+Common Cold,"Shortness of breath, Fatigue, Chills, Chest tightness",Azithromycin,Alerid,500mg,20
+Constipation,"Dizziness, Chest tightness, Itching, Chills",Cetirizine,Ciplox,5mg,75
+Constipation,"Dizziness, Chest tightness, Itching, Chills",Amoxicillin,Brufen,500mg,50
+Indigestion,"Nausea, Chest tightness, Rash, Chills",Omeprazole,Crocin,5mg,75
+Indigestion,"Nausea, Chest tightness, Rash, Chills",Amoxicillin,Alerid,500mg,150
+Cholera,"Sweating, Shortness of breath, Vomiting, Joint pain",Metronidazole,Brufen,5mg,75
+Cholera,"Sweating, Shortness of breath, Vomiting, Joint pain",Paracetamol,Flagyl,200mg,20
+Hepatitis,"Pain, Sweating, Chills, Fatigue",Ranitidine,Ciplox,200mg,150
+Hepatitis,"Pain, Sweating, Chills, Fatigue",Amoxicillin,Claritine,500mg,20
+Indigestion,"Itching, Sore throat, Shortness of breath, Headache",Amoxicillin,Zinetac,100mg,75
+Indigestion,"Itching, Sore throat, Shortness of breath, Headache",Loratadine,Claritine,500mg,20
+Back Pain,"Itching, Chills, Dizziness, Chest tightness",Cetirizine,Omez,200mg,20
+Back Pain,"Itching, Chills, Dizziness, Chest tightness",Loratadine,Zinetac,500mg,75
+Gout,"Dizziness, Fatigue, Chills, Headache",Paracetamol,Omez,1g,75
+Gout,"Dizziness, Fatigue, Chills, Headache",Amoxicillin,Alerid,200mg,100
+Indigestion,"Weight loss, Shortness of breath, Chills, Sweating",Loratadine,Omez,5mg,30
+Indigestion,"Weight loss, Shortness of breath, Chills, Sweating",Cetirizine,Ciplox,500mg,75
+Eye Infection,"Fever, Itching, Dizziness, Sore throat",Ibuprofen,Crocin,5mg,75
+Eye Infection,"Fever, Itching, Dizziness, Sore throat",Paracetamol,Brufen,100mg,20
+Diarrhea,"Vomiting, Headache, Shortness of breath, Cough",Ibuprofen,Brufen,200mg,100
+Diarrhea,"Vomiting, Headache, Shortness of breath, Cough",Paracetamol,Ciplox,1g,30
+Indigestion,"Chills, Fatigue, Sweating, Dizziness",Azithromycin,Flagyl,5mg,50
+Indigestion,"Chills, Fatigue, Sweating, Dizziness",Ranitidine,Alerid,1g,30
+Back Pain,"Dizziness, Cough, Chest tightness, Joint pain",Omeprazole,Omez,5mg,30
+Back Pain,"Dizziness, Cough, Chest tightness, Joint pain",Amoxicillin,Zinetac,100mg,20
+Diarrhea,"Fever, Joint pain, Sweating, Nausea",Ciprofloxacin,Brufen,100mg,20
+Diarrhea,"Fever, Joint pain, Sweating, Nausea",Omeprazole,Zinetac,5mg,100
+Dengue,"Dizziness, Pain, Weight loss, Fever",Amoxicillin,Crocin,500mg,50
+Dengue,"Dizziness, Pain, Weight loss, Fever",Metronidazole,Augmentin,10mg,100
+Gout,"Weight loss, Fever, Headache, Fatigue",Cetirizine,Crocin,250mg,50
+Gout,"Weight loss, Fever, Headache, Fatigue",Ranitidine,Azithral,10mg,200
+Back Pain,"Weight loss, Dizziness, Fever, Sore throat",Ranitidine,Ciplox,1g,100
+Back Pain,"Weight loss, Dizziness, Fever, Sore throat",Ibuprofen,Azithral,5mg,20
+Depression,"Sore throat, Itching, Dizziness, Vomiting",Metronidazole,Crocin,10mg,50
+Depression,"Sore throat, Itching, Dizziness, Vomiting",Paracetamol,Claritine,1g,150
+Cholera,"Fever, Dizziness, Itching, Sore throat",Loratadine,Zinetac,1g,20
+Cholera,"Fever, Dizziness, Itching, Sore throat",Azithromycin,Ciplox,200mg,30
+HIV,"Cough, Sore throat, Chills, Headache",Metronidazole,Alerid,1g,150
+HIV,"Cough, Sore throat, Chills, Headache",Paracetamol,Augmentin,5mg,200
+Ear Infection,"Vomiting, Weight loss, Fever, Headache",Ibuprofen,Azithral,100mg,200
+Ear Infection,"Vomiting, Weight loss, Fever, Headache",Metronidazole,Augmentin,1g,100
+Gastritis,"Itching, Nausea, Joint pain, Sore throat",Paracetamol,Augmentin,200mg,50
+Gastritis,"Itching, Nausea, Joint pain, Sore throat",Metronidazole,Crocin,500mg,20
+Anxiety,"Nausea, Vomiting, Cough, Sweating",Azithromycin,Ciplox,1g,150
+Anxiety,"Nausea, Vomiting, Cough, Sweating",Ibuprofen,Alerid,200mg,50
+Allergy,"Fatigue, Sweating, Itching, Shortness of breath",Ciprofloxacin,Omez,100mg,30
+Allergy,"Fatigue, Sweating, Itching, Shortness of breath",Ranitidine,Flagyl,1g,200
+Hepatitis,"Chills, Joint pain, Nausea, Fatigue",Metronidazole,Alerid,500mg,150
+Hepatitis,"Chills, Joint pain, Nausea, Fatigue",Cetirizine,Flagyl,1g,200
+COVID-19,"Fatigue, Vomiting, Pain, Headache",Metronidazole,Crocin,500mg,75
+COVID-19,"Fatigue, Vomiting, Pain, Headache",Ibuprofen,Flagyl,10mg,100
+Eye Infection,"Cough, Chest tightness, Fatigue, Shortness of breath",Ciprofloxacin,Ciplox,100mg,50
+Eye Infection,"Cough, Chest tightness, Fatigue, Shortness of breath",Metronidazole,Zinetac,250mg,100
+Diarrhea,"Headache, Cough, Chest tightness, Sweating",Ibuprofen,Crocin,1g,75
+Diarrhea,"Headache, Cough, Chest tightness, Sweating",Ciprofloxacin,Claritine,500mg,20
+Chickenpox,"Shortness of breath, Rash, Joint pain, Headache",Paracetamol,Brufen,200mg,50
+Chickenpox,"Shortness of breath, Rash, Joint pain, Headache",Metronidazole,Augmentin,5mg,20
+Chickenpox,"Chest tightness, Headache, Joint pain, Sweating",Ranitidine,Ciplox,5mg,150
+Chickenpox,"Chest tightness, Headache, Joint pain, Sweating",Ibuprofen,Alerid,200mg,30
+Back Pain,"Fatigue, Cough, Headache, Pain",Loratadine,Claritine,200mg,150
+Back Pain,"Fatigue, Cough, Headache, Pain",Azithromycin,Alerid,250mg,100
+Insomnia,"Itching, Cough, Sweating, Rash",Ibuprofen,Flagyl,10mg,100
+Insomnia,"Itching, Cough, Sweating, Rash",Omeprazole,Crocin,100mg,50
+Alzheimer's,"Rash, Sore throat, Chest tightness, Dizziness",Ranitidine,Claritine,10mg,200
+Alzheimer's,"Rash, Sore throat, Chest tightness, Dizziness",Omeprazole,Zinetac,200mg,50
+Allergy,"Headache, Itching, Chest tightness, Rash",Metronidazole,Claritine,250mg,30
+Allergy,"Headache, Itching, Chest tightness, Rash",Amoxicillin,Augmentin,1g,200
+Ear Infection,"Shortness of breath, Chills, Fever, Sore throat",Ibuprofen,Alerid,250mg,150
+Ear Infection,"Shortness of breath, Chills, Fever, Sore throat",Azithromycin,Omez,100mg,200
+Back Pain,"Chills, Vomiting, Nausea, Cough",Ibuprofen,Claritine,250mg,75
+Back Pain,"Chills, Vomiting, Nausea, Cough",Metronidazole,Ciplox,10mg,20
+Cholera,"Pain, Chills, Nausea, Rash",Paracetamol,Claritine,100mg,100
+Cholera,"Pain, Chills, Nausea, Rash",Metronidazole,Brufen,200mg,150
+Depression,"Vomiting, Chills, Shortness of breath, Sweating",Ibuprofen,Flagyl,10mg,20
+Depression,"Vomiting, Chills, Shortness of breath, Sweating",Paracetamol,Azithral,1g,50
+Anxiety,"Rash, Chills, Fever, Sore throat",Amoxicillin,Flagyl,250mg,150
+Anxiety,"Rash, Chills, Fever, Sore throat",Ciprofloxacin,Omez,500mg,50
+Bronchitis,"Cough, Pain, Sore throat, Joint pain",Metronidazole,Augmentin,250mg,100
+Bronchitis,"Cough, Pain, Sore throat, Joint pain",Loratadine,Flagyl,100mg,30
+Glaucoma,"Nausea, Vomiting, Rash, Chills",Ibuprofen,Brufen,1g,100
+Glaucoma,"Nausea, Vomiting, Rash, Chills",Paracetamol,Alerid,10mg,75
+Anxiety,"Itching, Pain, Chills, Vomiting",Amoxicillin,Crocin,1g,100
+Anxiety,"Itching, Pain, Chills, Vomiting",Omeprazole,Augmentin,10mg,50
+Chickenpox,"Dizziness, Sweating, Itching, Vomiting",Ibuprofen,Brufen,100mg,50
+Chickenpox,"Dizziness, Sweating, Itching, Vomiting",Azithromycin,Augmentin,10mg,75
+Ear Infection,"Weight loss, Pain, Fever, Vomiting",Paracetamol,Zinetac,200mg,50
+Ear Infection,"Weight loss, Pain, Fever, Vomiting",Amoxicillin,Ciplox,10mg,30
+COVID-19,"Sore throat, Shortness of breath, Weight loss, Dizziness",Loratadine,Omez,10mg,50
+COVID-19,"Sore throat, Shortness of breath, Weight loss, Dizziness",Ranitidine,Claritine,200mg,20
+Gout,"Fatigue, Joint pain, Chest tightness, Sore throat",Ibuprofen,Crocin,100mg,150
+Gout,"Fatigue, Joint pain, Chest tightness, Sore throat",Ciprofloxacin,Ciplox,250mg,30
+Alzheimer's,"Sore throat, Cough, Vomiting, Shortness of breath",Paracetamol,Flagyl,100mg,75
+Alzheimer's,"Sore throat, Cough, Vomiting, Shortness of breath",Azithromycin,Ciplox,500mg,20
+HIV,"Nausea, Vomiting, Pain, Headache",Ranitidine,Flagyl,250mg,100
+HIV,"Nausea, Vomiting, Pain, Headache",Ciprofloxacin,Brufen,1g,20
+Indigestion,"Cough, Nausea, Weight loss, Headache",Ciprofloxacin,Claritine,250mg,30
+Indigestion,"Cough, Nausea, Weight loss, Headache",Ranitidine,Ciplox,5mg,50
+Acne,"Fatigue, Chills, Headache, Shortness of breath",Ibuprofen,Flagyl,5mg,75
+Acne,"Fatigue, Chills, Headache, Shortness of breath",Ranitidine,Alerid,250mg,100
+Glaucoma,"Sore throat, Weight loss, Itching, Shortness of breath",Paracetamol,Brufen,5mg,200
+Glaucoma,"Sore throat, Weight loss, Itching, Shortness of breath",Ibuprofen,Zinetac,200mg,50
+Epilepsy,"Chest tightness, Rash, Dizziness, Headache",Loratadine,Flagyl,5mg,200
+Epilepsy,"Chest tightness, Rash, Dizziness, Headache",Azithromycin,Azithral,200mg,75
+Acne,"Shortness of breath, Itching, Nausea, Chest tightness",Azithromycin,Azithral,200mg,200
+Acne,"Shortness of breath, Itching, Nausea, Chest tightness",Ibuprofen,Zinetac,1g,150
+Bronchitis,"Headache, Weight loss, Sweating, Vomiting",Cetirizine,Augmentin,200mg,150
+Bronchitis,"Headache, Weight loss, Sweating, Vomiting",Ranitidine,Ciplox,5mg,30
+Ear Infection,"Weight loss, Itching, Chest tightness, Vomiting",Azithromycin,Omez,5mg,200
+Ear Infection,"Weight loss, Itching, Chest tightness, Vomiting",Paracetamol,Azithral,250mg,100
+Gout,"Sore throat, Joint pain, Chills, Weight loss",Paracetamol,Augmentin,10mg,100
+Gout,"Sore throat, Joint pain, Chills, Weight loss",Cetirizine,Ciplox,250mg,200
+Indigestion,"Fatigue, Sweating, Nausea, Vomiting",Loratadine,Ciplox,200mg,50
+Indigestion,"Fatigue, Sweating, Nausea, Vomiting",Amoxicillin,Zinetac,1g,75
+Glaucoma,"Dizziness, Chest tightness, Fever, Sore throat",Cetirizine,Flagyl,100mg,75
+Glaucoma,"Dizziness, Chest tightness, Fever, Sore throat",Amoxicillin,Augmentin,1g,100
+Gout,"Shortness of breath, Sore throat, Cough, Dizziness",Amoxicillin,Brufen,1g,75
+Gout,"Shortness of breath, Sore throat, Cough, Dizziness",Ibuprofen,Augmentin,100mg,200
+Alzheimer's,"Weight loss, Headache, Vomiting, Sore throat",Ciprofloxacin,Zinetac,250mg,50
+Alzheimer's,"Weight loss, Headache, Vomiting, Sore throat",Cetirizine,Brufen,10mg,30
+Epilepsy,"Itching, Dizziness, Chills, Pain",Ibuprofen,Azithral,1g,30
+Epilepsy,"Itching, Dizziness, Chills, Pain",Amoxicillin,Ciplox,100mg,75
+Gastritis,"Fever, Chest tightness, Headache, Shortness of breath",Paracetamol,Zinetac,1g,30
+Gastritis,"Fever, Chest tightness, Headache, Shortness of breath",Metronidazole,Alerid,5mg,150
+Acne,"Chills, Nausea, Fever, Fatigue",Metronidazole,Augmentin,5mg,20
+Acne,"Chills, Nausea, Fever, Fatigue",Azithromycin,Zinetac,500mg,75
+Ear Infection,"Headache, Vomiting, Sore throat, Weight loss",Cetirizine,Alerid,10mg,20
+Ear Infection,"Headache, Vomiting, Sore throat, Weight loss",Metronidazole,Brufen,100mg,30
+Cholera,"Weight loss, Vomiting, Pain, Chills",Loratadine,Augmentin,100mg,200
+Cholera,"Weight loss, Vomiting, Pain, Chills",Paracetamol,Omez,500mg,50
+Common Cold,"Chest tightness, Headache, Rash, Sweating",Cetirizine,Augmentin,200mg,150
+Common Cold,"Chest tightness, Headache, Rash, Sweating",Metronidazole,Azithral,1g,20
+Ear Infection,"Nausea, Fever, Chest tightness, Rash",Loratadine,Claritine,200mg,20
+Ear Infection,"Nausea, Fever, Chest tightness, Rash",Cetirizine,Alerid,500mg,200
+Glaucoma,"Chills, Dizziness, Cough, Chest tightness",Paracetamol,Ciplox,200mg,75
+Glaucoma,"Chills, Dizziness, Cough, Chest tightness",Metronidazole,Crocin,100mg,20
+Insomnia,"Weight loss, Nausea, Fever, Sweating",Paracetamol,Azithral,10mg,20
+Insomnia,"Weight loss, Nausea, Fever, Sweating",Ciprofloxacin,Alerid,5mg,30
+Allergy,"Chills, Chest tightness, Joint pain, Weight loss",Ibuprofen,Omez,250mg,50
+Allergy,"Chills, Chest tightness, Joint pain, Weight loss",Amoxicillin,Claritine,100mg,30
+Bronchitis,"Nausea, Sore throat, Joint pain, Rash",Ciprofloxacin,Azithral,100mg,150
+Bronchitis,"Nausea, Sore throat, Joint pain, Rash",Metronidazole,Flagyl,5mg,20
+Constipation,"Fatigue, Joint pain, Nausea, Rash",Ranitidine,Augmentin,1g,50
+Constipation,"Fatigue, Joint pain, Nausea, Rash",Paracetamol,Alerid,5mg,30
+Ear Infection,"Rash, Shortness of breath, Dizziness, Sore throat",Azithromycin,Augmentin,1g,50
+Ear Infection,"Rash, Shortness of breath, Dizziness, Sore throat",Cetirizine,Crocin,10mg,20
+Gout,"Shortness of breath, Headache, Sweating, Dizziness",Ciprofloxacin,Augmentin,5mg,50
+Gout,"Shortness of breath, Headache, Sweating, Dizziness",Amoxicillin,Claritine,500mg,20
+Alzheimer's,"Chest tightness, Fever, Dizziness, Pain",Cetirizine,Brufen,10mg,100
+Alzheimer's,"Chest tightness, Fever, Dizziness, Pain",Omeprazole,Crocin,100mg,200
+Allergy,"Joint pain, Rash, Dizziness, Vomiting",Amoxicillin,Brufen,200mg,200
+Allergy,"Joint pain, Rash, Dizziness, Vomiting",Paracetamol,Flagyl,100mg,100
+Anxiety,"Weight loss, Fever, Shortness of breath, Chest tightness",Paracetamol,Ciplox,1g,200
+Anxiety,"Weight loss, Fever, Shortness of breath, Chest tightness",Ciprofloxacin,Brufen,500mg,50
+Common Cold,"Cough, Joint pain, Rash, Fever",Paracetamol,Crocin,5mg,150
+Common Cold,"Cough, Joint pain, Rash, Fever",Cetirizine,Zinetac,100mg,75
+Cholera,"Sweating, Itching, Dizziness, Shortness of breath",Cetirizine,Ciplox,200mg,20
+Cholera,"Sweating, Itching, Dizziness, Shortness of breath",Paracetamol,Alerid,100mg,150
+Cholera,"Itching, Joint pain, Weight loss, Nausea",Ciprofloxacin,Flagyl,5mg,75
+Cholera,"Itching, Joint pain, Weight loss, Nausea",Metronidazole,Claritine,500mg,150
+Epilepsy,"Chills, Chest tightness, Joint pain, Headache",Metronidazole,Crocin,250mg,20
+Epilepsy,"Chills, Chest tightness, Joint pain, Headache",Paracetamol,Claritine,10mg,150
+Common Cold,"Shortness of breath, Sweating, Fever, Rash",Metronidazole,Azithral,250mg,100
+Common Cold,"Shortness of breath, Sweating, Fever, Rash",Ciprofloxacin,Alerid,1g,200
+Alzheimer's,"Weight loss, Itching, Pain, Fatigue",Metronidazole,Alerid,10mg,30
+Alzheimer's,"Weight loss, Itching, Pain, Fatigue",Cetirizine,Azithral,5mg,20
+COVID-19,"Vomiting, Sore throat, Chest tightness, Sweating",Ciprofloxacin,Zinetac,1g,75
+COVID-19,"Vomiting, Sore throat, Chest tightness, Sweating",Ranitidine,Omez,5mg,30
+COVID-19,"Chest tightness, Joint pain, Dizziness, Chills",Cetirizine,Brufen,5mg,75
+COVID-19,"Chest tightness, Joint pain, Dizziness, Chills",Ranitidine,Claritine,10mg,150
+Dengue,"Shortness of breath, Sore throat, Dizziness, Chills",Ibuprofen,Ciplox,5mg,75
+Dengue,"Shortness of breath, Sore throat, Dizziness, Chills",Ciprofloxacin,Crocin,1g,150
+Gout,"Chest tightness, Itching, Headache, Rash",Omeprazole,Flagyl,200mg,20
+Gout,"Chest tightness, Itching, Headache, Rash",Ranitidine,Augmentin,10mg,30
+COVID-19,"Fatigue, Itching, Pain, Fever",Ciprofloxacin,Flagyl,5mg,100
+COVID-19,"Fatigue, Itching, Pain, Fever",Ranitidine,Ciplox,100mg,200
+Ear Infection,"Sweating, Shortness of breath, Vomiting, Sore throat",Ranitidine,Omez,500mg,75
+Ear Infection,"Sweating, Shortness of breath, Vomiting, Sore throat",Ibuprofen,Flagyl,1g,150
+Cholera,"Pain, Nausea, Itching, Vomiting",Azithromycin,Flagyl,500mg,100
+Cholera,"Pain, Nausea, Itching, Vomiting",Cetirizine,Augmentin,1g,150
+Gout,"Rash, Pain, Dizziness, Sore throat",Azithromycin,Alerid,500mg,20
+Gout,"Rash, Pain, Dizziness, Sore throat",Loratadine,Flagyl,200mg,75
+COVID-19,"Nausea, Joint pain, Vomiting, Rash",Omeprazole,Crocin,200mg,30
+COVID-19,"Nausea, Joint pain, Vomiting, Rash",Loratadine,Zinetac,100mg,200
+Depression,"Cough, Weight loss, Sweating, Fatigue",Ciprofloxacin,Alerid,200mg,30
+Depression,"Cough, Weight loss, Sweating, Fatigue",Cetirizine,Azithral,10mg,200
+Constipation,"Chest tightness, Chills, Joint pain, Dizziness",Ranitidine,Alerid,5mg,50
+Constipation,"Chest tightness, Chills, Joint pain, Dizziness",Ibuprofen,Flagyl,200mg,75
+Gastritis,"Sweating, Chest tightness, Nausea, Sore throat",Ranitidine,Brufen,250mg,50
+Gastritis,"Sweating, Chest tightness, Nausea, Sore throat",Paracetamol,Crocin,500mg,200
+Depression,"Joint pain, Sweating, Chills, Itching",Azithromycin,Omez,1g,30
+Depression,"Joint pain, Sweating, Chills, Itching",Metronidazole,Augmentin,500mg,200
+Anxiety,"Cough, Pain, Chest tightness, Nausea",Cetirizine,Ciplox,250mg,50
+Anxiety,"Cough, Pain, Chest tightness, Nausea",Ibuprofen,Omez,200mg,200
+Glaucoma,"Sweating, Fever, Pain, Joint pain",Metronidazole,Alerid,5mg,20
+Glaucoma,"Sweating, Fever, Pain, Joint pain",Loratadine,Azithral,10mg,200
+Glaucoma,"Sore throat, Headache, Fever, Fatigue",Loratadine,Azithral,200mg,30
+Glaucoma,"Sore throat, Headache, Fever, Fatigue",Ciprofloxacin,Augmentin,100mg,100
+Common Cold,"Rash, Sore throat, Itching, Vomiting",Ibuprofen,Zinetac,100mg,30
+Common Cold,"Rash, Sore throat, Itching, Vomiting",Azithromycin,Brufen,250mg,75
+Acne,"Fatigue, Itching, Pain, Fever",Cetirizine,Omez,5mg,20
+Acne,"Fatigue, Itching, Pain, Fever",Ranitidine,Ciplox,1g,150
+Insomnia,"Shortness of breath, Rash, Sore throat, Pain",Omeprazole,Azithral,1g,20
+Insomnia,"Shortness of breath, Rash, Sore throat, Pain",Paracetamol,Claritine,200mg,150
+Diarrhea,"Itching, Sore throat, Headache, Joint pain",Metronidazole,Alerid,10mg,200
+Diarrhea,"Itching, Sore throat, Headache, Joint pain",Paracetamol,Crocin,200mg,20
+Constipation,"Headache, Fatigue, Vomiting, Joint pain",Paracetamol,Brufen,1g,30
+Constipation,"Headache, Fatigue, Vomiting, Joint pain",Loratadine,Alerid,5mg,20
+Diarrhea,"Chills, Cough, Fever, Chest tightness",Azithromycin,Augmentin,100mg,150
+Diarrhea,"Chills, Cough, Fever, Chest tightness",Omeprazole,Brufen,1g,200
+Allergy,"Chest tightness, Sore throat, Sweating, Joint pain",Cetirizine,Brufen,5mg,20
+Allergy,"Chest tightness, Sore throat, Sweating, Joint pain",Amoxicillin,Crocin,200mg,100
+Alzheimer's,"Chills, Cough, Vomiting, Itching",Omeprazole,Flagyl,500mg,30
+Alzheimer's,"Chills, Cough, Vomiting, Itching",Ibuprofen,Azithral,100mg,100
+Dengue,"Chest tightness, Sweating, Sore throat, Dizziness",Amoxicillin,Crocin,100mg,30
+Dengue,"Chest tightness, Sweating, Sore throat, Dizziness",Ciprofloxacin,Claritine,1g,50
+Diarrhea,"Vomiting, Fever, Weight loss, Nausea",Ranitidine,Claritine,500mg,50
+Diarrhea,"Vomiting, Fever, Weight loss, Nausea",Azithromycin,Azithral,200mg,150
+Hepatitis,"Cough, Fatigue, Joint pain, Dizziness",Metronidazole,Omez,200mg,30
+Hepatitis,"Cough, Fatigue, Joint pain, Dizziness",Loratadine,Claritine,500mg,150
+Acne,"Fatigue, Cough, Rash, Sweating",Amoxicillin,Flagyl,5mg,150
+Acne,"Fatigue, Cough, Rash, Sweating",Ciprofloxacin,Augmentin,500mg,20
+Constipation,"Dizziness, Sore throat, Weight loss, Nausea",Ciprofloxacin,Brufen,200mg,100
+Constipation,"Dizziness, Sore throat, Weight loss, Nausea",Azithromycin,Alerid,100mg,75
+Gout,"Shortness of breath, Joint pain, Sore throat, Sweating",Loratadine,Azithral,10mg,200
+Gout,"Shortness of breath, Joint pain, Sore throat, Sweating",Azithromycin,Augmentin,1g,50
+HIV,"Chest tightness, Chills, Sore throat, Pain",Ciprofloxacin,Crocin,10mg,30
+HIV,"Chest tightness, Chills, Sore throat, Pain",Azithromycin,Zinetac,500mg,200
+Chickenpox,"Shortness of breath, Vomiting, Joint pain, Fatigue",Azithromycin,Alerid,250mg,30
+Chickenpox,"Shortness of breath, Vomiting, Joint pain, Fatigue",Paracetamol,Ciplox,10mg,150
+Dengue,"Dizziness, Fatigue, Chest tightness, Weight loss",Cetirizine,Brufen,500mg,100
+Dengue,"Dizziness, Fatigue, Chest tightness, Weight loss",Amoxicillin,Augmentin,5mg,30
+Alzheimer's,"Vomiting, Fever, Cough, Chills",Ranitidine,Claritine,10mg,75
+Alzheimer's,"Vomiting, Fever, Cough, Chills",Metronidazole,Azithral,250mg,100
+Allergy,"Headache, Dizziness, Sore throat, Nausea",Amoxicillin,Alerid,10mg,200
+Allergy,"Headache, Dizziness, Sore throat, Nausea",Paracetamol,Flagyl,1g,75
+Indigestion,"Chills, Joint pain, Headache, Rash",Amoxicillin,Flagyl,5mg,30
+Indigestion,"Chills, Joint pain, Headache, Rash",Cetirizine,Azithral,1g,50
+HIV,"Itching, Chills, Pain, Nausea",Ranitidine,Zinetac,10mg,75
+HIV,"Itching, Chills, Pain, Nausea",Amoxicillin,Ciplox,1g,30
+Gastritis,"Pain, Fatigue, Chills, Joint pain",Cetirizine,Ciplox,500mg,30
+Gastritis,"Pain, Fatigue, Chills, Joint pain",Ibuprofen,Zinetac,200mg,150
+Glaucoma,"Rash, Shortness of breath, Headache, Nausea",Amoxicillin,Augmentin,100mg,30
+Glaucoma,"Rash, Shortness of breath, Headache, Nausea",Cetirizine,Azithral,1g,75
+Alzheimer's,"Chills, Vomiting, Pain, Weight loss",Ciprofloxacin,Ciplox,1g,20
+Alzheimer's,"Chills, Vomiting, Pain, Weight loss",Omeprazole,Zinetac,250mg,150
+Alzheimer's,"Sweating, Headache, Nausea, Itching",Ibuprofen,Zinetac,250mg,30
+Alzheimer's,"Sweating, Headache, Nausea, Itching",Azithromycin,Brufen,1g,75
+Eye Infection,"Sweating, Shortness of breath, Itching, Sore throat",Paracetamol,Augmentin,250mg,30
+Eye Infection,"Sweating, Shortness of breath, Itching, Sore throat",Ranitidine,Azithral,500mg,200
+Gastritis,"Itching, Dizziness, Sweating, Sore throat",Paracetamol,Omez,10mg,200
+Gastritis,"Itching, Dizziness, Sweating, Sore throat",Loratadine,Flagyl,250mg,50
+Insomnia,"Joint pain, Dizziness, Nausea, Itching",Cetirizine,Claritine,250mg,30
+Insomnia,"Joint pain, Dizziness, Nausea, Itching",Ciprofloxacin,Azithral,1g,100
+Depression,"Vomiting, Pain, Rash, Sweating",Azithromycin,Omez,250mg,200
+Depression,"Vomiting, Pain, Rash, Sweating",Amoxicillin,Flagyl,1g,20
+HIV,"Vomiting, Rash, Weight loss, Chest tightness",Ibuprofen,Zinetac,200mg,30
+HIV,"Vomiting, Rash, Weight loss, Chest tightness",Ciprofloxacin,Claritine,500mg,75
+Glaucoma,"Chills, Fatigue, Shortness of breath, Itching",Paracetamol,Crocin,200mg,75
+Glaucoma,"Chills, Fatigue, Shortness of breath, Itching",Ranitidine,Alerid,250mg,50
+Constipation,"Chills, Sore throat, Sweating, Cough",Ibuprofen,Claritine,10mg,100
+Constipation,"Chills, Sore throat, Sweating, Cough",Loratadine,Augmentin,5mg,20
+COVID-19,"Fever, Chills, Nausea, Itching",Loratadine,Alerid,100mg,30
+COVID-19,"Fever, Chills, Nausea, Itching",Amoxicillin,Azithral,1g,50
+Gastritis,"Headache, Cough, Pain, Fever",Cetirizine,Omez,250mg,75
+Gastritis,"Headache, Cough, Pain, Fever",Ranitidine,Alerid,200mg,100
+Depression,"Chills, Fatigue, Shortness of breath, Sweating",Omeprazole,Alerid,250mg,75
+Depression,"Chills, Fatigue, Shortness of breath, Sweating",Metronidazole,Ciplox,10mg,30
+Depression,"Itching, Chest tightness, Fatigue, Sweating",Omeprazole,Augmentin,100mg,150
+Depression,"Itching, Chest tightness, Fatigue, Sweating",Azithromycin,Claritine,10mg,200
+Anxiety,"Weight loss, Fever, Chest tightness, Rash",Azithromycin,Claritine,5mg,150
+Anxiety,"Weight loss, Fever, Chest tightness, Rash",Amoxicillin,Ciplox,200mg,30
+Diarrhea,"Joint pain, Sore throat, Weight loss, Vomiting",Ibuprofen,Augmentin,100mg,75
+Diarrhea,"Joint pain, Sore throat, Weight loss, Vomiting",Loratadine,Crocin,10mg,100
+Cholera,"Rash, Fatigue, Sweating, Chills",Ibuprofen,Augmentin,10mg,150
+Cholera,"Rash, Fatigue, Sweating, Chills",Amoxicillin,Crocin,500mg,100
+Gastritis,"Fever, Joint pain, Itching, Shortness of breath",Cetirizine,Ciplox,5mg,100
+Gastritis,"Fever, Joint pain, Itching, Shortness of breath",Loratadine,Brufen,100mg,150
+Back Pain,"Shortness of breath, Sore throat, Dizziness, Weight loss",Metronidazole,Ciplox,10mg,50
+Back Pain,"Shortness of breath, Sore throat, Dizziness, Weight loss",Loratadine,Claritine,5mg,200
+Allergy,"Itching, Cough, Chest tightness, Dizziness",Omeprazole,Claritine,100mg,30
+Allergy,"Itching, Cough, Chest tightness, Dizziness",Cetirizine,Ciplox,10mg,100
+Indigestion,"Fever, Sweating, Shortness of breath, Weight loss",Metronidazole,Claritine,500mg,30
+Indigestion,"Fever, Sweating, Shortness of breath, Weight loss",Ranitidine,Omez,200mg,150
+Gout,"Nausea, Headache, Shortness of breath, Fatigue",Metronidazole,Azithral,250mg,200
+Gout,"Nausea, Headache, Shortness of breath, Fatigue",Ibuprofen,Ciplox,1g,50
+Epilepsy,"Joint pain, Rash, Fatigue, Pain",Ranitidine,Crocin,1g,20
+Epilepsy,"Joint pain, Rash, Fatigue, Pain",Paracetamol,Omez,250mg,100
+Indigestion,"Chest tightness, Chills, Joint pain, Fatigue",Loratadine,Ciplox,200mg,200
+Indigestion,"Chest tightness, Chills, Joint pain, Fatigue",Cetirizine,Crocin,500mg,150
+Gastritis,"Fatigue, Itching, Pain, Cough",Azithromycin,Flagyl,250mg,200
+Gastritis,"Fatigue, Itching, Pain, Cough",Metronidazole,Brufen,10mg,50
+Flu,"Chills, Weight loss, Fever, Headache",Loratadine,Azithral,10mg,150
+Flu,"Chills, Weight loss, Fever, Headache",Ranitidine,Alerid,100mg,100
+Alzheimer's,"Nausea, Shortness of breath, Headache, Fever",Ranitidine,Crocin,250mg,75
+Alzheimer's,"Nausea, Shortness of breath, Headache, Fever",Paracetamol,Augmentin,5mg,200
+Diarrhea,"Dizziness, Weight loss, Sweating, Fatigue",Amoxicillin,Zinetac,200mg,30
+Diarrhea,"Dizziness, Weight loss, Sweating, Fatigue",Loratadine,Crocin,5mg,150
+Chickenpox,"Shortness of breath, Joint pain, Pain, Cough",Loratadine,Crocin,10mg,200
+Chickenpox,"Shortness of breath, Joint pain, Pain, Cough",Paracetamol,Claritine,200mg,30
+Bronchitis,"Weight loss, Sore throat, Shortness of breath, Nausea",Metronidazole,Augmentin,5mg,20
+Bronchitis,"Weight loss, Sore throat, Shortness of breath, Nausea",Ibuprofen,Crocin,250mg,150
+Chickenpox,"Shortness of breath, Rash, Cough, Joint pain",Cetirizine,Azithral,500mg,200
+Chickenpox,"Shortness of breath, Rash, Cough, Joint pain",Ciprofloxacin,Alerid,250mg,75
+Hepatitis,"Weight loss, Headache, Chest tightness, Nausea",Ciprofloxacin,Brufen,5mg,150
+Hepatitis,"Weight loss, Headache, Chest tightness, Nausea",Omeprazole,Augmentin,500mg,200
+Anxiety,"Joint pain, Cough, Sore throat, Rash",Omeprazole,Omez,5mg,100
+Anxiety,"Joint pain, Cough, Sore throat, Rash",Paracetamol,Zinetac,200mg,75
+Bronchitis,"Sore throat, Headache, Pain, Chills",Cetirizine,Augmentin,10mg,20
+Bronchitis,"Sore throat, Headache, Pain, Chills",Ranitidine,Azithral,200mg,150
+Bronchitis,"Fatigue, Nausea, Cough, Joint pain",Amoxicillin,Augmentin,5mg,100
+Bronchitis,"Fatigue, Nausea, Cough, Joint pain",Metronidazole,Ciplox,200mg,50
+Flu,"Dizziness, Sore throat, Chills, Chest tightness",Amoxicillin,Claritine,250mg,30
+Flu,"Dizziness, Sore throat, Chills, Chest tightness",Paracetamol,Brufen,200mg,50
+Hepatitis,"Fever, Headache, Itching, Shortness of breath",Cetirizine,Alerid,1g,20
+Hepatitis,"Fever, Headache, Itching, Shortness of breath",Amoxicillin,Omez,5mg,75
+Dengue,"Fever, Headache, Shortness of breath, Pain",Ibuprofen,Zinetac,200mg,100
+Dengue,"Fever, Headache, Shortness of breath, Pain",Omeprazole,Augmentin,100mg,50
+Acne,"Headache, Fatigue, Sore throat, Pain",Ciprofloxacin,Brufen,5mg,100
+Acne,"Headache, Fatigue, Sore throat, Pain",Ranitidine,Flagyl,100mg,200
+Ear Infection,"Pain, Headache, Fever, Sweating",Amoxicillin,Augmentin,5mg,200
+Ear Infection,"Pain, Headache, Fever, Sweating",Ranitidine,Crocin,1g,75
+Eye Infection,"Sweating, Weight loss, Fever, Pain",Ibuprofen,Claritine,1g,150
+Eye Infection,"Sweating, Weight loss, Fever, Pain",Amoxicillin,Brufen,200mg,50
+Constipation,"Chills, Rash, Fatigue, Nausea",Ibuprofen,Zinetac,100mg,200
+Constipation,"Chills, Rash, Fatigue, Nausea",Amoxicillin,Flagyl,500mg,30
+Insomnia,"Joint pain, Vomiting, Weight loss, Shortness of breath",Ibuprofen,Ciplox,100mg,50
+Insomnia,"Joint pain, Vomiting, Weight loss, Shortness of breath",Amoxicillin,Crocin,5mg,20
+Glaucoma,"Fever, Chills, Joint pain, Nausea",Ibuprofen,Augmentin,200mg,50
+Glaucoma,"Fever, Chills, Joint pain, Nausea",Loratadine,Azithral,1g,150
+Allergy,"Fatigue, Sweating, Pain, Shortness of breath",Metronidazole,Ciplox,100mg,150
+Allergy,"Fatigue, Sweating, Pain, Shortness of breath",Omeprazole,Zinetac,200mg,200
+HIV,"Itching, Fatigue, Fever, Dizziness",Amoxicillin,Ciplox,10mg,30
+HIV,"Itching, Fatigue, Fever, Dizziness",Omeprazole,Crocin,200mg,100
+Gout,"Itching, Fatigue, Weight loss, Shortness of breath",Ibuprofen,Crocin,250mg,75
+Gout,"Itching, Fatigue, Weight loss, Shortness of breath",Loratadine,Zinetac,10mg,20
+HIV,"Vomiting, Headache, Joint pain, Chills",Metronidazole,Brufen,5mg,200
+HIV,"Vomiting, Headache, Joint pain, Chills",Ciprofloxacin,Azithral,500mg,50
+Common Cold,"Fever, Weight loss, Sore throat, Shortness of breath",Ranitidine,Brufen,10mg,50
+Common Cold,"Fever, Weight loss, Sore throat, Shortness of breath",Omeprazole,Azithral,500mg,200
+Depression,"Joint pain, Sweating, Chills, Weight loss",Metronidazole,Claritine,5mg,50
+Depression,"Joint pain, Sweating, Chills, Weight loss",Loratadine,Alerid,1g,100
+Flu,"Headache, Cough, Chest tightness, Vomiting",Paracetamol,Alerid,200mg,200
+Flu,"Headache, Cough, Chest tightness, Vomiting",Azithromycin,Azithral,500mg,150
+Flu,"Weight loss, Vomiting, Headache, Chills",Ibuprofen,Omez,5mg,30
+Flu,"Weight loss, Vomiting, Headache, Chills",Azithromycin,Flagyl,100mg,20
+COVID-19,"Dizziness, Sweating, Chest tightness, Sore throat",Ranitidine,Azithral,500mg,150
+COVID-19,"Dizziness, Sweating, Chest tightness, Sore throat",Omeprazole,Alerid,100mg,20
+Gastritis,"Fever, Vomiting, Headache, Weight loss",Paracetamol,Azithral,200mg,75
+Gastritis,"Fever, Vomiting, Headache, Weight loss",Cetirizine,Zinetac,5mg,200
+Acne,"Fever, Cough, Rash, Fatigue",Ciprofloxacin,Ciplox,1g,20
+Acne,"Fever, Cough, Rash, Fatigue",Metronidazole,Claritine,500mg,50
+Eye Infection,"Nausea, Chest tightness, Vomiting, Itching",Ranitidine,Azithral,200mg,75
+Eye Infection,"Nausea, Chest tightness, Vomiting, Itching",Amoxicillin,Brufen,500mg,20
+Ear Infection,"Itching, Fever, Cough, Pain",Ibuprofen,Augmentin,250mg,100
+Ear Infection,"Itching, Fever, Cough, Pain",Ciprofloxacin,Ciplox,10mg,75
+COVID-19,"Nausea, Vomiting, Pain, Headache",Loratadine,Augmentin,5mg,20
+COVID-19,"Nausea, Vomiting, Pain, Headache",Ibuprofen,Crocin,200mg,200
+COVID-19,"Fever, Chills, Pain, Chest tightness",Omeprazole,Claritine,10mg,200
+COVID-19,"Fever, Chills, Pain, Chest tightness",Cetirizine,Augmentin,200mg,50
+Flu,"Sweating, Dizziness, Sore throat, Fever",Ibuprofen,Azithral,250mg,20
+Flu,"Sweating, Dizziness, Sore throat, Fever",Ciprofloxacin,Augmentin,10mg,100
+Cholera,"Vomiting, Pain, Dizziness, Chills",Cetirizine,Azithral,1g,50
+Cholera,"Vomiting, Pain, Dizziness, Chills",Ibuprofen,Zinetac,5mg,75
+Diarrhea,"Weight loss, Sweating, Rash, Itching",Paracetamol,Azithral,500mg,30
+Diarrhea,"Weight loss, Sweating, Rash, Itching",Ranitidine,Claritine,100mg,150
+Diarrhea,"Sore throat, Nausea, Cough, Fever",Amoxicillin,Omez,250mg,50
+Diarrhea,"Sore throat, Nausea, Cough, Fever",Loratadine,Azithral,200mg,75
+Constipation,"Chest tightness, Fever, Dizziness, Sweating",Amoxicillin,Flagyl,200mg,50
+Constipation,"Chest tightness, Fever, Dizziness, Sweating",Paracetamol,Claritine,1g,30
+Insomnia,"Chills, Dizziness, Headache, Pain",Amoxicillin,Flagyl,200mg,30
+Insomnia,"Chills, Dizziness, Headache, Pain",Paracetamol,Augmentin,1g,75
+Flu,"Fever, Weight loss, Joint pain, Nausea",Paracetamol,Ciplox,100mg,200
+Flu,"Fever, Weight loss, Joint pain, Nausea",Omeprazole,Crocin,5mg,50
+COVID-19,"Chest tightness, Headache, Vomiting, Sweating",Amoxicillin,Claritine,1g,75
+COVID-19,"Chest tightness, Headache, Vomiting, Sweating",Loratadine,Brufen,10mg,20
+Gastritis,"Rash, Fatigue, Nausea, Itching",Ibuprofen,Augmentin,5mg,20
+Gastritis,"Rash, Fatigue, Nausea, Itching",Ranitidine,Alerid,250mg,50
+Common Cold,"Fatigue, Itching, Joint pain, Weight loss",Amoxicillin,Augmentin,100mg,100
+Common Cold,"Fatigue, Itching, Joint pain, Weight loss",Azithromycin,Flagyl,250mg,50
+Eye Infection,"Fatigue, Vomiting, Sore throat, Fever",Cetirizine,Azithral,250mg,75
+Eye Infection,"Fatigue, Vomiting, Sore throat, Fever",Metronidazole,Crocin,100mg,100
+Common Cold,"Weight loss, Joint pain, Cough, Nausea",Loratadine,Augmentin,10mg,50
+Common Cold,"Weight loss, Joint pain, Cough, Nausea",Cetirizine,Azithral,250mg,100
+Gastritis,"Weight loss, Chills, Sweating, Sore throat",Azithromycin,Claritine,1g,75
+Gastritis,"Weight loss, Chills, Sweating, Sore throat",Ranitidine,Alerid,10mg,30
+Gout,"Shortness of breath, Itching, Sweating, Weight loss",Loratadine,Zinetac,1g,200
+Gout,"Shortness of breath, Itching, Sweating, Weight loss",Metronidazole,Omez,250mg,20
+Depression,"Headache, Itching, Weight loss, Chills",Cetirizine,Claritine,200mg,150
+Depression,"Headache, Itching, Weight loss, Chills",Ciprofloxacin,Alerid,250mg,100
+Glaucoma,"Headache, Nausea, Cough, Joint pain",Ibuprofen,Omez,500mg,20
+Glaucoma,"Headache, Nausea, Cough, Joint pain",Loratadine,Augmentin,1g,75
+Constipation,"Pain, Rash, Fatigue, Weight loss",Ciprofloxacin,Zinetac,5mg,50
+Constipation,"Pain, Rash, Fatigue, Weight loss",Omeprazole,Brufen,1g,100
+Back Pain,"Rash, Shortness of breath, Pain, Dizziness",Omeprazole,Ciplox,500mg,100
+Back Pain,"Rash, Shortness of breath, Pain, Dizziness",Metronidazole,Claritine,200mg,30
+Gastritis,"Joint pain, Fever, Rash, Chills",Paracetamol,Flagyl,200mg,30
+Gastritis,"Joint pain, Fever, Rash, Chills",Ciprofloxacin,Brufen,1g,150
+Common Cold,"Rash, Itching, Pain, Weight loss",Loratadine,Ciplox,100mg,50
+Common Cold,"Rash, Itching, Pain, Weight loss",Paracetamol,Crocin,250mg,200
+Diarrhea,"Itching, Sore throat, Fever, Fatigue",Loratadine,Omez,10mg,20
+Diarrhea,"Itching, Sore throat, Fever, Fatigue",Amoxicillin,Zinetac,1g,30
+Gastritis,"Itching, Shortness of breath, Headache, Fatigue",Ranitidine,Omez,1g,200
+Gastritis,"Itching, Shortness of breath, Headache, Fatigue",Ciprofloxacin,Zinetac,10mg,50
+Depression,"Sore throat, Pain, Itching, Weight loss",Paracetamol,Omez,10mg,200
+Depression,"Sore throat, Pain, Itching, Weight loss",Ranitidine,Flagyl,1g,150
+Back Pain,"Sweating, Rash, Fatigue, Chills",Azithromycin,Brufen,250mg,30
+Back Pain,"Sweating, Rash, Fatigue, Chills",Ciprofloxacin,Claritine,100mg,20
+Common Cold,"Dizziness, Sore throat, Vomiting, Rash",Amoxicillin,Azithral,200mg,30
+Common Cold,"Dizziness, Sore throat, Vomiting, Rash",Ibuprofen,Brufen,250mg,20
+Diarrhea,"Dizziness, Headache, Chills, Vomiting",Cetirizine,Azithral,10mg,30
+Diarrhea,"Dizziness, Headache, Chills, Vomiting",Azithromycin,Alerid,500mg,20
+Depression,"Chest tightness, Chills, Fever, Headache",Metronidazole,Augmentin,5mg,30
+Depression,"Chest tightness, Chills, Fever, Headache",Ranitidine,Brufen,10mg,200
+Indigestion,"Vomiting, Joint pain, Shortness of breath, Nausea",Ibuprofen,Claritine,200mg,20
+Indigestion,"Vomiting, Joint pain, Shortness of breath, Nausea",Metronidazole,Flagyl,250mg,150
+Dengue,"Rash, Chest tightness, Dizziness, Itching",Azithromycin,Crocin,500mg,75
+Dengue,"Rash, Chest tightness, Dizziness, Itching",Cetirizine,Brufen,5mg,100
+Indigestion,"Itching, Fatigue, Fever, Pain",Omeprazole,Alerid,250mg,200
+Indigestion,"Itching, Fatigue, Fever, Pain",Loratadine,Zinetac,500mg,30
+Bronchitis,"Joint pain, Shortness of breath, Rash, Chills",Ciprofloxacin,Zinetac,250mg,20
+Bronchitis,"Joint pain, Shortness of breath, Rash, Chills",Loratadine,Crocin,200mg,30
+Back Pain,"Rash, Cough, Fever, Chest tightness",Ranitidine,Crocin,5mg,30
+Back Pain,"Rash, Cough, Fever, Chest tightness",Omeprazole,Brufen,100mg,50
+COVID-19,"Chest tightness, Pain, Weight loss, Rash",Paracetamol,Augmentin,10mg,200
+COVID-19,"Chest tightness, Pain, Weight loss, Rash",Cetirizine,Crocin,5mg,75
+Acne,"Joint pain, Itching, Fever, Nausea",Metronidazole,Alerid,250mg,200
+Acne,"Joint pain, Itching, Fever, Nausea",Loratadine,Brufen,500mg,20
+Depression,"Chills, Fatigue, Rash, Vomiting",Azithromycin,Augmentin,200mg,150
+Depression,"Chills, Fatigue, Rash, Vomiting",Cetirizine,Zinetac,10mg,20
+Flu,"Dizziness, Sweating, Fatigue, Chest tightness",Amoxicillin,Brufen,5mg,50
+Flu,"Dizziness, Sweating, Fatigue, Chest tightness",Ciprofloxacin,Ciplox,1g,20
+Cholera,"Weight loss, Chest tightness, Dizziness, Shortness of breath",Azithromycin,Claritine,1g,75
+Cholera,"Weight loss, Chest tightness, Dizziness, Shortness of breath",Omeprazole,Flagyl,200mg,150
+Dengue,"Nausea, Dizziness, Fever, Weight loss",Azithromycin,Omez,200mg,30
+Dengue,"Nausea, Dizziness, Fever, Weight loss",Loratadine,Claritine,100mg,150
+Epilepsy,"Itching, Pain, Fatigue, Vomiting",Paracetamol,Alerid,500mg,50
+Epilepsy,"Itching, Pain, Fatigue, Vomiting",Omeprazole,Azithral,100mg,150
+Alzheimer's,"Chest tightness, Cough, Dizziness, Joint pain",Loratadine,Azithral,200mg,75
+Alzheimer's,"Chest tightness, Cough, Dizziness, Joint pain",Ibuprofen,Alerid,100mg,200
+Glaucoma,"Fatigue, Fever, Headache, Chills",Amoxicillin,Ciplox,1g,50
+Glaucoma,"Fatigue, Fever, Headache, Chills",Cetirizine,Crocin,10mg,20
+HIV,"Vomiting, Sore throat, Headache, Joint pain",Ciprofloxacin,Zinetac,200mg,75
+HIV,"Vomiting, Sore throat, Headache, Joint pain",Azithromycin,Crocin,500mg,20
+Diarrhea,"Itching, Chest tightness, Nausea, Rash",Ciprofloxacin,Flagyl,200mg,200
+Diarrhea,"Itching, Chest tightness, Nausea, Rash",Metronidazole,Claritine,1g,50
+Gout,"Cough, Chest tightness, Vomiting, Joint pain",Azithromycin,Ciplox,5mg,200
+Gout,"Cough, Chest tightness, Vomiting, Joint pain",Ranitidine,Omez,500mg,150
+COVID-19,"Headache, Vomiting, Weight loss, Joint pain",Amoxicillin,Brufen,250mg,50
+COVID-19,"Headache, Vomiting, Weight loss, Joint pain",Azithromycin,Azithral,500mg,150
+Epilepsy,"Weight loss, Chills, Cough, Nausea",Metronidazole,Azithral,1g,30
+Epilepsy,"Weight loss, Chills, Cough, Nausea",Ranitidine,Omez,200mg,20
+COVID-19,"Nausea, Fever, Itching, Cough",Amoxicillin,Crocin,10mg,20
+COVID-19,"Nausea, Fever, Itching, Cough",Ibuprofen,Omez,250mg,75
+COVID-19,"Chest tightness, Weight loss, Joint pain, Shortness of breath",Ranitidine,Augmentin,1g,30
+COVID-19,"Chest tightness, Weight loss, Joint pain, Shortness of breath",Omeprazole,Brufen,200mg,150
+Acne,"Rash, Headache, Cough, Fatigue",Amoxicillin,Augmentin,200mg,75
+Acne,"Rash, Headache, Cough, Fatigue",Metronidazole,Alerid,100mg,20
+Ear Infection,"Fever, Chills, Headache, Dizziness",Ciprofloxacin,Flagyl,100mg,75
+Ear Infection,"Fever, Chills, Headache, Dizziness",Paracetamol,Ciplox,10mg,200
+Constipation,"Weight loss, Shortness of breath, Fever, Chest tightness",Ranitidine,Azithral,5mg,150
+Constipation,"Weight loss, Shortness of breath, Fever, Chest tightness",Omeprazole,Crocin,250mg,50
+Anxiety,"Shortness of breath, Sweating, Headache, Itching",Omeprazole,Claritine,250mg,30
+Anxiety,"Shortness of breath, Sweating, Headache, Itching",Ciprofloxacin,Zinetac,10mg,50
+Gout,"Chest tightness, Rash, Sore throat, Cough",Cetirizine,Crocin,5mg,100
+Gout,"Chest tightness, Rash, Sore throat, Cough",Paracetamol,Brufen,250mg,75
+Allergy,"Dizziness, Joint pain, Itching, Fever",Ranitidine,Ciplox,5mg,50
+Allergy,"Dizziness, Joint pain, Itching, Fever",Loratadine,Omez,10mg,20
+Depression,"Weight loss, Joint pain, Itching, Sore throat",Ciprofloxacin,Ciplox,200mg,20
+Depression,"Weight loss, Joint pain, Itching, Sore throat",Ibuprofen,Azithral,500mg,75
+Insomnia,"Joint pain, Weight loss, Sweating, Vomiting",Ranitidine,Crocin,250mg,200
+Insomnia,"Joint pain, Weight loss, Sweating, Vomiting",Omeprazole,Azithral,10mg,50
+Dengue,"Headache, Chest tightness, Fatigue, Pain",Ibuprofen,Brufen,5mg,50
+Dengue,"Headache, Chest tightness, Fatigue, Pain",Azithromycin,Augmentin,250mg,20
+Chickenpox,"Weight loss, Vomiting, Chills, Dizziness",Cetirizine,Brufen,500mg,150
+Chickenpox,"Weight loss, Vomiting, Chills, Dizziness",Paracetamol,Zinetac,1g,200
+Allergy,"Cough, Shortness of breath, Fever, Pain",Ibuprofen,Augmentin,1g,50
+Allergy,"Cough, Shortness of breath, Fever, Pain",Omeprazole,Azithral,200mg,30
+Chickenpox,"Fever, Rash, Sweating, Nausea",Metronidazole,Zinetac,10mg,150
+Chickenpox,"Fever, Rash, Sweating, Nausea",Amoxicillin,Ciplox,1g,200
+Gastritis,"Joint pain, Sore throat, Weight loss, Nausea",Azithromycin,Brufen,500mg,30
+Gastritis,"Joint pain, Sore throat, Weight loss, Nausea",Metronidazole,Ciplox,10mg,100
+Cholera,"Headache, Weight loss, Sweating, Shortness of breath",Azithromycin,Augmentin,1g,150
+Cholera,"Headache, Weight loss, Sweating, Shortness of breath",Cetirizine,Claritine,200mg,50
+Common Cold,"Chills, Fatigue, Weight loss, Nausea",Metronidazole,Flagyl,500mg,50
+Common Cold,"Chills, Fatigue, Weight loss, Nausea",Cetirizine,Claritine,1g,30
+Bronchitis,"Sore throat, Fatigue, Nausea, Fever",Cetirizine,Zinetac,100mg,200
+Bronchitis,"Sore throat, Fatigue, Nausea, Fever",Omeprazole,Augmentin,200mg,150
+Allergy,"Chest tightness, Headache, Vomiting, Sore throat",Ciprofloxacin,Ciplox,100mg,200
+Allergy,"Chest tightness, Headache, Vomiting, Sore throat",Ibuprofen,Azithral,500mg,20
+Depression,"Itching, Headache, Sweating, Cough",Ibuprofen,Augmentin,5mg,100
+Depression,"Itching, Headache, Sweating, Cough",Ciprofloxacin,Claritine,1g,50
+Glaucoma,"Rash, Joint pain, Headache, Weight loss",Ciprofloxacin,Brufen,200mg,75
+Glaucoma,"Rash, Joint pain, Headache, Weight loss",Ranitidine,Claritine,100mg,20
+Constipation,"Headache, Weight loss, Dizziness, Fever",Omeprazole,Ciplox,1g,50
+Constipation,"Headache, Weight loss, Dizziness, Fever",Paracetamol,Omez,200mg,20
+Flu,"Chills, Weight loss, Vomiting, Sweating",Loratadine,Zinetac,100mg,30
+Flu,"Chills, Weight loss, Vomiting, Sweating",Cetirizine,Flagyl,5mg,75
+Gout,"Sore throat, Itching, Sweating, Cough",Paracetamol,Ciplox,500mg,20
+Gout,"Sore throat, Itching, Sweating, Cough",Loratadine,Alerid,5mg,200
+COVID-19,"Pain, Headache, Joint pain, Rash",Metronidazole,Omez,500mg,50
+COVID-19,"Pain, Headache, Joint pain, Rash",Ciprofloxacin,Azithral,100mg,200
+Eye Infection,"Itching, Cough, Sweating, Rash",Loratadine,Augmentin,500mg,100
+Eye Infection,"Itching, Cough, Sweating, Rash",Azithromycin,Omez,1g,200
+Insomnia,"Dizziness, Fever, Rash, Nausea",Paracetamol,Augmentin,10mg,50
+Insomnia,"Dizziness, Fever, Rash, Nausea",Ibuprofen,Omez,250mg,150
+Hepatitis,"Pain, Fatigue, Fever, Vomiting",Omeprazole,Augmentin,200mg,150
+Hepatitis,"Pain, Fatigue, Fever, Vomiting",Amoxicillin,Ciplox,1g,75
+Chickenpox,"Dizziness, Weight loss, Chills, Sweating",Ranitidine,Claritine,1g,75
+Chickenpox,"Dizziness, Weight loss, Chills, Sweating",Metronidazole,Crocin,10mg,150
+Indigestion,"Itching, Cough, Chills, Vomiting",Ibuprofen,Brufen,5mg,75
+Indigestion,"Itching, Cough, Chills, Vomiting",Ciprofloxacin,Omez,500mg,150
+Gout,"Weight loss, Fatigue, Headache, Sweating",Metronidazole,Omez,10mg,200
+Gout,"Weight loss, Fatigue, Headache, Sweating",Ciprofloxacin,Ciplox,5mg,50
+Allergy,"Headache, Fever, Dizziness, Itching",Omeprazole,Alerid,10mg,200
+Allergy,"Headache, Fever, Dizziness, Itching",Loratadine,Azithral,250mg,20
+Hepatitis,"Headache, Itching, Joint pain, Fatigue",Cetirizine,Brufen,10mg,75
+Hepatitis,"Headache, Itching, Joint pain, Fatigue",Paracetamol,Claritine,200mg,30
+COVID-19,"Cough, Chest tightness, Chills, Nausea",Metronidazole,Azithral,1g,50
+COVID-19,"Cough, Chest tightness, Chills, Nausea",Ranitidine,Augmentin,5mg,30
+Depression,"Sore throat, Pain, Joint pain, Chest tightness",Amoxicillin,Augmentin,500mg,200
+Depression,"Sore throat, Pain, Joint pain, Chest tightness",Loratadine,Crocin,200mg,100
+Allergy,"Joint pain, Shortness of breath, Fatigue, Chest tightness",Amoxicillin,Brufen,100mg,100
+Allergy,"Joint pain, Shortness of breath, Fatigue, Chest tightness",Omeprazole,Omez,5mg,30
+Diarrhea,"Fatigue, Chills, Chest tightness, Shortness of breath",Azithromycin,Alerid,500mg,75
+Diarrhea,"Fatigue, Chills, Chest tightness, Shortness of breath",Paracetamol,Omez,250mg,200
+Gout,"Fatigue, Sore throat, Fever, Chest tightness",Loratadine,Flagyl,500mg,50
+Gout,"Fatigue, Sore throat, Fever, Chest tightness",Azithromycin,Azithral,1g,150
+Gout,"Joint pain, Sore throat, Vomiting, Cough",Ibuprofen,Alerid,200mg,100
+Gout,"Joint pain, Sore throat, Vomiting, Cough",Amoxicillin,Claritine,1g,200
+Hepatitis,"Shortness of breath, Fatigue, Sore throat, Rash",Ranitidine,Zinetac,250mg,50
+Hepatitis,"Shortness of breath, Fatigue, Sore throat, Rash",Azithromycin,Augmentin,100mg,75
+Eye Infection,"Chills, Headache, Fatigue, Cough",Amoxicillin,Azithral,500mg,200
+Eye Infection,"Chills, Headache, Fatigue, Cough",Ranitidine,Omez,100mg,30
+HIV,"Shortness of breath, Cough, Rash, Headache",Cetirizine,Augmentin,1g,150
+HIV,"Shortness of breath, Cough, Rash, Headache",Ciprofloxacin,Flagyl,5mg,50
+Back Pain,"Chills, Rash, Fatigue, Shortness of breath",Amoxicillin,Brufen,250mg,30
+Back Pain,"Chills, Rash, Fatigue, Shortness of breath",Ciprofloxacin,Augmentin,5mg,200
+Constipation,"Cough, Sweating, Dizziness, Pain",Ibuprofen,Azithral,500mg,100
+Constipation,"Cough, Sweating, Dizziness, Pain",Amoxicillin,Zinetac,100mg,50
+Common Cold,"Chills, Nausea, Chest tightness, Dizziness",Azithromycin,Ciplox,250mg,100
+Common Cold,"Chills, Nausea, Chest tightness, Dizziness",Metronidazole,Brufen,1g,30
+Chickenpox,"Chest tightness, Fatigue, Chills, Dizziness",Ciprofloxacin,Alerid,500mg,150
+Chickenpox,"Chest tightness, Fatigue, Chills, Dizziness",Ranitidine,Azithral,200mg,20
+Chickenpox,"Joint pain, Cough, Headache, Sweating",Ibuprofen,Azithral,500mg,30
+Chickenpox,"Joint pain, Cough, Headache, Sweating",Omeprazole,Crocin,5mg,100
+Bronchitis,"Chills, Headache, Weight loss, Pain",Omeprazole,Ciplox,200mg,150
+Bronchitis,"Chills, Headache, Weight loss, Pain",Paracetamol,Azithral,500mg,30
+Eye Infection,"Rash, Shortness of breath, Pain, Chest tightness",Ciprofloxacin,Flagyl,500mg,75
+Eye Infection,"Rash, Shortness of breath, Pain, Chest tightness",Omeprazole,Alerid,100mg,100
+Eye Infection,"Headache, Fever, Nausea, Shortness of breath",Cetirizine,Crocin,200mg,50
+Eye Infection,"Headache, Fever, Nausea, Shortness of breath",Amoxicillin,Omez,500mg,150
+HIV,"Vomiting, Weight loss, Rash, Shortness of breath",Metronidazole,Zinetac,200mg,75
+HIV,"Vomiting, Weight loss, Rash, Shortness of breath",Azithromycin,Alerid,100mg,200
+Glaucoma,"Chest tightness, Sore throat, Shortness of breath, Nausea",Omeprazole,Claritine,250mg,20
+Glaucoma,"Chest tightness, Sore throat, Shortness of breath, Nausea",Azithromycin,Augmentin,100mg,150
+Allergy,"Joint pain, Chest tightness, Vomiting, Itching",Omeprazole,Augmentin,100mg,100
+Allergy,"Joint pain, Chest tightness, Vomiting, Itching",Ciprofloxacin,Zinetac,1g,20
+Insomnia,"Headache, Chills, Sore throat, Rash",Cetirizine,Crocin,10mg,150
+Insomnia,"Headache, Chills, Sore throat, Rash",Loratadine,Ciplox,500mg,20
+Flu,"Chills, Sore throat, Rash, Cough",Ranitidine,Ciplox,500mg,200
+Flu,"Chills, Sore throat, Rash, Cough",Loratadine,Azithral,250mg,30
+Back Pain,"Headache, Chest tightness, Shortness of breath, Chills",Azithromycin,Claritine,500mg,30
+Back Pain,"Headache, Chest tightness, Shortness of breath, Chills",Cetirizine,Crocin,250mg,75
+COVID-19,"Sore throat, Dizziness, Vomiting, Rash",Ibuprofen,Brufen,250mg,50
+COVID-19,"Sore throat, Dizziness, Vomiting, Rash",Amoxicillin,Flagyl,5mg,30
+Indigestion,"Headache, Shortness of breath, Sore throat, Nausea",Ranitidine,Crocin,250mg,75
+Indigestion,"Headache, Shortness of breath, Sore throat, Nausea",Cetirizine,Ciplox,100mg,20
+Ear Infection,"Dizziness, Chest tightness, Weight loss, Cough",Metronidazole,Brufen,5mg,100
+Ear Infection,"Dizziness, Chest tightness, Weight loss, Cough",Ranitidine,Claritine,200mg,75
+Allergy,"Itching, Headache, Sweating, Weight loss",Cetirizine,Claritine,1g,150
+Allergy,"Itching, Headache, Sweating, Weight loss",Paracetamol,Brufen,200mg,200
+Chickenpox,"Sweating, Joint pain, Itching, Rash",Paracetamol,Brufen,5mg,20
+Chickenpox,"Sweating, Joint pain, Itching, Rash",Omeprazole,Alerid,1g,150
+Ear Infection,"Rash, Chills, Sore throat, Dizziness",Azithromycin,Zinetac,500mg,150
+Ear Infection,"Rash, Chills, Sore throat, Dizziness",Metronidazole,Azithral,10mg,75
+Ear Infection,"Chest tightness, Fatigue, Fever, Nausea",Ranitidine,Ciplox,100mg,100
+Ear Infection,"Chest tightness, Fatigue, Fever, Nausea",Ciprofloxacin,Zinetac,5mg,75
+Cholera,"Fatigue, Chest tightness, Joint pain, Chills",Metronidazole,Ciplox,1g,150
+Cholera,"Fatigue, Chest tightness, Joint pain, Chills",Ibuprofen,Azithral,100mg,20
+Hepatitis,"Nausea, Fatigue, Weight loss, Sore throat",Loratadine,Zinetac,1g,100
+Hepatitis,"Nausea, Fatigue, Weight loss, Sore throat",Azithromycin,Brufen,500mg,50
+Flu,"Joint pain, Weight loss, Vomiting, Sweating",Ibuprofen,Zinetac,500mg,50
+Flu,"Joint pain, Weight loss, Vomiting, Sweating",Ranitidine,Brufen,100mg,100
+Dengue,"Sweating, Cough, Nausea, Pain",Amoxicillin,Alerid,1g,200
+Dengue,"Sweating, Cough, Nausea, Pain",Metronidazole,Augmentin,500mg,30
+Acne,"Fever, Rash, Pain, Nausea",Metronidazole,Flagyl,5mg,20
+Acne,"Fever, Rash, Pain, Nausea",Amoxicillin,Azithral,250mg,50
+Dengue,"Chills, Chest tightness, Itching, Rash",Ibuprofen,Crocin,10mg,150
+Dengue,"Chills, Chest tightness, Itching, Rash",Loratadine,Flagyl,500mg,30
+Bronchitis,"Cough, Weight loss, Fatigue, Headache",Omeprazole,Zinetac,250mg,50
+Bronchitis,"Cough, Weight loss, Fatigue, Headache",Amoxicillin,Crocin,200mg,100
+Common Cold,"Sore throat, Headache, Fever, Chest tightness",Amoxicillin,Flagyl,1g,30
+Common Cold,"Sore throat, Headache, Fever, Chest tightness",Azithromycin,Claritine,200mg,150
+Epilepsy,"Joint pain, Pain, Chills, Itching",Omeprazole,Ciplox,500mg,30
+Epilepsy,"Joint pain, Pain, Chills, Itching",Ibuprofen,Azithral,5mg,20
+Acne,"Rash, Sweating, Vomiting, Nausea",Cetirizine,Alerid,100mg,200
+Acne,"Rash, Sweating, Vomiting, Nausea",Metronidazole,Claritine,200mg,100
+Hepatitis,"Dizziness, Fatigue, Chest tightness, Chills",Loratadine,Omez,250mg,30
+Hepatitis,"Dizziness, Fatigue, Chest tightness, Chills",Amoxicillin,Zinetac,200mg,100
+Epilepsy,"Chest tightness, Shortness of breath, Sore throat, Dizziness",Ibuprofen,Zinetac,100mg,75
+Epilepsy,"Chest tightness, Shortness of breath, Sore throat, Dizziness",Metronidazole,Augmentin,5mg,30
+Flu,"Fatigue, Vomiting, Chest tightness, Chills",Amoxicillin,Crocin,100mg,100
+Flu,"Fatigue, Vomiting, Chest tightness, Chills",Ibuprofen,Ciplox,1g,75
+Depression,"Fever, Sweating, Pain, Rash",Ranitidine,Azithral,500mg,200
+Depression,"Fever, Sweating, Pain, Rash",Metronidazole,Claritine,250mg,150
+Flu,"Itching, Vomiting, Sweating, Shortness of breath",Ciprofloxacin,Claritine,10mg,200
+Flu,"Itching, Vomiting, Sweating, Shortness of breath",Ranitidine,Alerid,100mg,150
+Eye Infection,"Cough, Dizziness, Pain, Rash",Omeprazole,Zinetac,10mg,200
+Eye Infection,"Cough, Dizziness, Pain, Rash",Paracetamol,Ciplox,500mg,100
+Ear Infection,"Shortness of breath, Fever, Itching, Headache",Paracetamol,Zinetac,200mg,200
+Ear Infection,"Shortness of breath, Fever, Itching, Headache",Ciprofloxacin,Azithral,500mg,100
+Hepatitis,"Sweating, Weight loss, Rash, Vomiting",Ibuprofen,Brufen,500mg,100
+Hepatitis,"Sweating, Weight loss, Rash, Vomiting",Cetirizine,Zinetac,5mg,75
+Common Cold,"Weight loss, Pain, Rash, Shortness of breath",Cetirizine,Omez,500mg,150
+Common Cold,"Weight loss, Pain, Rash, Shortness of breath",Azithromycin,Flagyl,100mg,100
+Epilepsy,"Sweating, Joint pain, Fever, Fatigue",Cetirizine,Crocin,5mg,75
+Epilepsy,"Sweating, Joint pain, Fever, Fatigue",Ibuprofen,Azithral,1g,50
+Back Pain,"Shortness of breath, Cough, Dizziness, Fatigue",Ranitidine,Crocin,250mg,50
+Back Pain,"Shortness of breath, Cough, Dizziness, Fatigue",Paracetamol,Omez,100mg,75
+Eye Infection,"Fatigue, Fever, Headache, Shortness of breath",Ciprofloxacin,Brufen,200mg,150
+Eye Infection,"Fatigue, Fever, Headache, Shortness of breath",Azithromycin,Zinetac,250mg,20
+Acne,"Sore throat, Itching, Cough, Weight loss",Metronidazole,Zinetac,1g,50
+Acne,"Sore throat, Itching, Cough, Weight loss",Amoxicillin,Claritine,10mg,75
+Bronchitis,"Joint pain, Sweating, Headache, Weight loss",Ciprofloxacin,Alerid,100mg,20
+Bronchitis,"Joint pain, Sweating, Headache, Weight loss",Amoxicillin,Flagyl,10mg,30
+COVID-19,"Shortness of breath, Cough, Sweating, Weight loss",Paracetamol,Alerid,250mg,100
+COVID-19,"Shortness of breath, Cough, Sweating, Weight loss",Cetirizine,Claritine,500mg,75
+Gout,"Sore throat, Itching, Fatigue, Dizziness",Paracetamol,Brufen,1g,200
+Gout,"Sore throat, Itching, Fatigue, Dizziness",Amoxicillin,Augmentin,5mg,150
+Flu,"Pain, Dizziness, Sore throat, Nausea",Loratadine,Omez,1g,75
+Flu,"Pain, Dizziness, Sore throat, Nausea",Amoxicillin,Alerid,250mg,100
+Indigestion,"Weight loss, Itching, Fever, Nausea",Azithromycin,Ciplox,500mg,30
+Indigestion,"Weight loss, Itching, Fever, Nausea",Ranitidine,Claritine,10mg,50
+Bronchitis,"Joint pain, Chest tightness, Sore throat, Fatigue",Amoxicillin,Azithral,5mg,75
+Bronchitis,"Joint pain, Chest tightness, Sore throat, Fatigue",Paracetamol,Crocin,250mg,150
+Back Pain,"Fatigue, Sore throat, Headache, Chest tightness",Ciprofloxacin,Alerid,5mg,100
+Back Pain,"Fatigue, Sore throat, Headache, Chest tightness",Azithromycin,Flagyl,1g,200
+Hepatitis,"Vomiting, Dizziness, Fatigue, Chest tightness",Azithromycin,Zinetac,250mg,50
+Hepatitis,"Vomiting, Dizziness, Fatigue, Chest tightness",Amoxicillin,Ciplox,100mg,30
+Chickenpox,"Weight loss, Sore throat, Nausea, Rash",Ranitidine,Crocin,5mg,75
+Chickenpox,"Weight loss, Sore throat, Nausea, Rash",Ciprofloxacin,Claritine,500mg,30
+Back Pain,"Fatigue, Dizziness, Rash, Sore throat",Loratadine,Azithral,250mg,50
+Back Pain,"Fatigue, Dizziness, Rash, Sore throat",Cetirizine,Augmentin,1g,75
+Flu,"Weight loss, Joint pain, Chills, Fatigue",Ciprofloxacin,Crocin,1g,75
+Flu,"Weight loss, Joint pain, Chills, Fatigue",Omeprazole,Ciplox,500mg,30
+Eye Infection,"Dizziness, Vomiting, Headache, Rash",Metronidazole,Zinetac,5mg,150
+Eye Infection,"Dizziness, Vomiting, Headache, Rash",Paracetamol,Omez,250mg,200
+Hepatitis,"Headache, Sore throat, Joint pain, Pain",Ranitidine,Claritine,250mg,30
+Hepatitis,"Headache, Sore throat, Joint pain, Pain",Azithromycin,Crocin,10mg,50
+HIV,"Fatigue, Chest tightness, Fever, Pain",Ibuprofen,Alerid,10mg,100
+HIV,"Fatigue, Chest tightness, Fever, Pain",Azithromycin,Azithral,100mg,150
+Indigestion,"Cough, Rash, Dizziness, Headache",Amoxicillin,Augmentin,5mg,200
+Indigestion,"Cough, Rash, Dizziness, Headache",Cetirizine,Claritine,10mg,150
+Diarrhea,"Sore throat, Dizziness, Sweating, Shortness of breath",Amoxicillin,Alerid,100mg,50
+Diarrhea,"Sore throat, Dizziness, Sweating, Shortness of breath",Metronidazole,Augmentin,200mg,100
+Constipation,"Shortness of breath, Cough, Dizziness, Chills",Loratadine,Ciplox,100mg,100
+Constipation,"Shortness of breath, Cough, Dizziness, Chills",Ibuprofen,Brufen,250mg,75
+Anxiety,"Weight loss, Chest tightness, Sore throat, Cough",Ibuprofen,Flagyl,100mg,100
+Anxiety,"Weight loss, Chest tightness, Sore throat, Cough",Ciprofloxacin,Brufen,200mg,75
+Chickenpox,"Sweating, Rash, Fatigue, Chest tightness",Ibuprofen,Ciplox,500mg,75
+Chickenpox,"Sweating, Rash, Fatigue, Chest tightness",Loratadine,Alerid,10mg,200
+Epilepsy,"Joint pain, Chills, Headache, Fatigue",Cetirizine,Crocin,1g,20
+Epilepsy,"Joint pain, Chills, Headache, Fatigue",Loratadine,Claritine,5mg,150
+Common Cold,"Pain, Chest tightness, Sweating, Joint pain",Ranitidine,Claritine,250mg,100
+Common Cold,"Pain, Chest tightness, Sweating, Joint pain",Ciprofloxacin,Azithral,5mg,50
+Hepatitis,"Sweating, Cough, Dizziness, Chest tightness",Paracetamol,Azithral,5mg,20
+Hepatitis,"Sweating, Cough, Dizziness, Chest tightness",Cetirizine,Crocin,200mg,200
+Depression,"Joint pain, Fever, Sore throat, Shortness of breath",Ranitidine,Zinetac,10mg,150
+Depression,"Joint pain, Fever, Sore throat, Shortness of breath",Omeprazole,Claritine,500mg,30
+Indigestion,"Joint pain, Weight loss, Chest tightness, Sore throat",Loratadine,Claritine,500mg,100
+Indigestion,"Joint pain, Weight loss, Chest tightness, Sore throat",Omeprazole,Augmentin,250mg,75
+Acne,"Vomiting, Fatigue, Sweating, Dizziness",Loratadine,Azithral,1g,200
+Acne,"Vomiting, Fatigue, Sweating, Dizziness",Omeprazole,Zinetac,250mg,30
+Epilepsy,"Pain, Dizziness, Chills, Joint pain",Omeprazole,Crocin,1g,200
+Epilepsy,"Pain, Dizziness, Chills, Joint pain",Metronidazole,Omez,250mg,100
+Constipation,"Nausea, Chest tightness, Fever, Fatigue",Paracetamol,Azithral,10mg,100
+Constipation,"Nausea, Chest tightness, Fever, Fatigue",Metronidazole,Alerid,5mg,30
+Insomnia,"Itching, Headache, Chest tightness, Shortness of breath",Paracetamol,Ciplox,200mg,50
+Insomnia,"Itching, Headache, Chest tightness, Shortness of breath",Ciprofloxacin,Crocin,5mg,75
+Ear Infection,"Cough, Dizziness, Pain, Nausea",Omeprazole,Crocin,5mg,150
+Ear Infection,"Cough, Dizziness, Pain, Nausea",Metronidazole,Azithral,1g,20
